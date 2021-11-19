@@ -99,7 +99,7 @@ Vagrant.configure("2") do |config|
 ##############################################################################
 
   # SQL Server Node [1]
-  config.vm.define "db-0" do |db|
+  config.vm.define "hacks" do |db|
     # VirtualBox Config
     db.vm.provider "virtualbox" do |vb|
       # Display the VM name in the VirtualBox GUI
@@ -113,7 +113,7 @@ Vagrant.configure("2") do |config|
     end
 
     # Configure machine hostname.
-    db.vm.hostname = "db-0"
+    db.vm.hostname = "hacks"
 
     # Configure basic private networking.
     db.vm.network :private_network, ip: "10.0.0.11"

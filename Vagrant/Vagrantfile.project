@@ -7,7 +7,7 @@
 ################################################################################
 # Name of project. By default, will be used to configure the VM name and
 # project folder.
-$project_name = "mf-ignition"
+$project_name = "values_1-hackathon"
 
 
 ################################################################################
@@ -78,12 +78,12 @@ EOT
 # This is too basic, but it doesn't require any schema modification
 $apply_migrations = <<EOT
   set -e
-  MIGRATE_DIR="/home/vagrant/mf-ignition/Config/migrations/"
+  MIGRATE_DIR="/home/vagrant/#{$project_name}/config/migrations/"
 
   mapfile -t migrations < <(find "${MIGRATE_DIR}" -regex '.*/V[0-9]+__.+\.sql' | sort -V)
   for file in "${migrations[@]}"; do
     echo "Applying `basename ${file}`"
-    mysql mf_ignition < "${file}"
+    mysql api_hackathon < "${file}"
   done
 EOT
 
@@ -109,4 +109,10 @@ $install_ignition = <<EOT
   # the opposite
   echo "Starting Ignition ${IGN_VERSION}"
   sudo /usr/local/bin/ignition/ignition.sh installstart || true
+
+  # Move our projects
+  find /home/vagrant/#{$project_name}/ignition_projects \
+    -mindepth 1 -maxdepth 1 -type d -exec sudo -u ignition cp -r \
+      "{}" \
+      /usr/local/bin/ignition/data/projects/ ";"
 EOT

@@ -27,16 +27,7 @@ Configuration details & files for MySQL servers
     -   All Migrations should be tested in a sandbox to verify functionality.
     -   There is no DB migration version tracking at this time, therefore it is
         expected that the Production DB has all migrations that have been
-        pushed to `master`.
--   `named-queries`
-    -   Folder containing Ignition Named Queries. These are likely not entirely
-        valid SQL, as they will feature Ignition's custom templating language.
-        Filenames should match the Named Query name in Ignition. As we currently
-        have a single active Ignition project, it is expected that all queries
-        belong to that project.
--   `my.cnf`
-    -   MySQL configuration file containing group replication settings. Requires
-        server-specific configuration.
+        pushed to `main`.
 
 --------------------------------------------------------------------------------
 
