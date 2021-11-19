@@ -5,4 +5,7 @@
 # Auto-generated thumbnails
 *thumbnail.png
 
-com.inductiveautomation.vision/*
+# Vision projects
+*com.inductiveautomation.reporting/
+*com.inductiveautomation.sqlbridge/
+*com.inductiveautomation.vision/
