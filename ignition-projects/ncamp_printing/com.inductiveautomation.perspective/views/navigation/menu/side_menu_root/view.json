@@ -1,0 +1,108 @@
+{
+  "custom": {},
+  "params": {},
+  "props": {
+    "defaultSize": {
+      "width": 200
+    }
+  },
+  "root": {
+    "children": [
+      {
+        "meta": {
+          "name": "MenuTree"
+        },
+        "propConfig": {
+          "position.basis": {
+            "binding": {
+              "config": {
+                "path": "view.props.defaultSize.width"
+              },
+              "type": "property"
+            }
+          }
+        },
+        "props": {
+          "itemStyle": {
+            "classes": "Clickable"
+          },
+          "items": [
+            {
+              "enabled": true,
+              "items": [],
+              "label": {
+                "icon": {
+                  "path": "material/dashboard"
+                },
+                "text": "Status"
+              },
+              "navIcon": {
+                "color": "#6C6C6C",
+                "path": ""
+              },
+              "showHeader": true,
+              "style": {
+                "classes": ""
+              },
+              "target": "/",
+              "visible": true
+            },
+            {
+              "enabled": true,
+              "items": [],
+              "label": {
+                "icon": {
+                  "path": "material/pie_chart"
+                },
+                "text": "Analytics"
+              },
+              "navIcon": {
+                "color": "",
+                "path": ""
+              },
+              "showHeader": true,
+              "style": {
+                "classes": ""
+              },
+              "target": "",
+              "visible": true
+            },
+            {
+              "enabled": true,
+              "items": [],
+              "label": {
+                "icon": {
+                  "path": "material/settings"
+                },
+                "text": "Config"
+              },
+              "navIcon": {
+                "color": "#6C6C6C",
+                "path": ""
+              },
+              "showHeader": true,
+              "style": {
+                "classes": ""
+              },
+              "target": "/config",
+              "visible": true
+            }
+          ],
+          "style": {
+            "borderRightColor": "#000000",
+            "borderRightStyle": "solid",
+            "borderRightWidth": 1
+          }
+        },
+        "type": "ia.navigation.menutree"
+      }
+    ],
+    "meta": {
+      "name": "root"
+    },
+    "props": {
+      "justify": "space-evenly"
+    },
+    "type": "ia.container.flex"
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "custom": {},
+  "params": {
+    "device-static": {
+      "name": "Test Pronter"
+    },
+    "device-status": {
+      "cc_primary_left": 69,
+      "cc_secondary_left": 420,
+      "state": "Printing",
+      "timeLeft": "13h 07m"
+    }
+  },
+  "propConfig": {
+    "params.device-static": {
+      "paramDirection": "input",
+      "persistent": true
+    },
+    "params.device-static.name": {
+      "paramDirection": "input",
+      "persistent": true
+    },
+    "params.device-status": {
+      "paramDirection": "input",
+      "persistent": true
+    },
+    "params.device-status.cc_primary_left": {
+      "paramDirection": "input",
+      "persistent": true
+    },
+    "params.device-status.cc_secondary_left": {
+      "paramDirection": "input",
+      "persistent": true
+    },
+    "params.device-status.state": {
+      "paramDirection": "input",
+      "persistent": true
+    },
+    "params.device-status.timeLeft": {
+      "paramDirection": "input",
+      "persistent": true
+    }
+  },
+  "props": {
+    "defaultSize": {
+      "height": 373,
+      "width": 478
+    }
+  },
+  "root": {
+    "children": [
+      {
+        "meta": {
+          "name": "Label"
+        },
+        "position": {
+          "height": 0.175,
+          "width": 1,
+          "y": 0.1
+        },
+        "propConfig": {
+          "props.text": {
+            "binding": {
+              "config": {
+                "path": "view.params.device-static.name"
+              },
+              "type": "property"
+            }
+          }
+        },
+        "props": {
+          "style": {
+            "classes": "Font_Header1",
+            "textAlign": "center"
+          }
+        },
+        "type": "ia.display.label"
+      },
+      {
+        "meta": {
+          "name": "Label_0"
+        },
+        "position": {
+          "height": 0.0858,
+          "width": 0.2531,
+          "x": 0.0836,
+          "y": 0.2573
+        },
+        "props": {
+          "style": {
+            "classes": "Font_Text"
+          },
+          "text": "Onyx FR-A:"
+        },
+        "type": "ia.display.label"
+      },
+      {
+        "meta": {
+          "name": "NumericEntryField"
+        },
+        "position": {
+          "height": 0.0643,
+          "width": 0.1653,
+          "x": 0.2741,
+          "y": 0.2628
+        },
+        "propConfig": {
+          "props.value": {
+            "binding": {
+              "config": {
+                "path": "view.params.device-status.cc_primary_left"
+              },
+              "type": "property"
+            }
+          }
+        },
+        "props": {
+          "enabled": false,
+          "format": "0.0a"
+        },
+        "type": "ia.input.numeric-entry-field"
+      },
+      {
+        "meta": {
+          "name": "NumericEntryField_0"
+        },
+        "position": {
+          "height": 0.0643,
+          "width": 0.1653,
+          "x": 0.6527,
+          "y": 0.2628
+        },
+        "propConfig": {
+          "props.value": {
+            "binding": {
+              "config": {
+                "path": "view.params.device-status.cc_secondary_left"
+              },
+              "type": "property"
+            }
+          }
+        },
+        "props": {
+          "enabled": false
+        },
+        "type": "ia.input.numeric-entry-field"
+      },
+      {
+        "meta": {
+          "name": "Label_1"
+        },
+        "position": {
+          "height": 0.0858,
+          "width": 0.2531,
+          "x": 0.5082,
+          "y": 0.2546
+        },
+        "props": {
+          "style": {
+            "classes": "Font_Text"
+          },
+          "text": "CF FR-A:"
+        },
+        "type": "ia.display.label"
+      },
+      {
+        "meta": {
+          "name": "Label_2"
+        },
+        "position": {
+          "height": 0.0858,
+          "width": 0.2782,
+          "x": 0.0835,
+          "y": 0.3591
+        },
+        "props": {
+          "style": {
+            "classes": "Font_Text"
+          },
+          "text": "Completion Date:"
+        },
+        "type": "ia.display.label"
+      },
+      {
+        "meta": {
+          "name": "DateTimeInput"
+        },
+        "position": {
+          "height": 0.0858,
+          "width": 0.3556,
+          "x": 0.364,
+          "y": 0.3601
+        },
+        "props": {
+          "enabled": false
+        },
+        "type": "ia.input.date-time-input"
+      }
+    ],
+    "meta": {
+      "name": "root"
+    },
+    "props": {
+      "mode": "percent"
+    },
+    "type": "ia.container.coord"
+  }
+}

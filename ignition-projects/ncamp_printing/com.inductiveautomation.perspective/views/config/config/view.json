@@ -1,0 +1,4954 @@
+{
+  "custom": {
+    "devices": [
+      {
+        "_id": "c59533e0-d533-4d78-9630-50f13fc2ec9d",
+        "created_at": "2020-08-11T14:23:25.840Z",
+        "deviceType": "Mark Two",
+        "name": null,
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-08-11T14:23:25.840Z"
+      },
+      {
+        "_id": "7cd71814-4829-49a9-973c-7fb343e5b92b",
+        "created_at": "2020-03-10T15:09:31.038Z",
+        "deviceType": "Mark Two",
+        "name": null,
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-03-10T15:09:31.038Z"
+      },
+      {
+        "_id": "fb8f4878-cbd9-4fae-a241-b0fb4574b62e",
+        "created_at": "2019-04-15T19:01:02.262Z",
+        "deviceType": "Metal X",
+        "name": "Typhon",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-02-18T14:07:34.563Z"
+      },
+      {
+        "_id": "526a5677-f915-4973-945f-4ff0bb748610",
+        "created_at": "2017-12-11T22:54:07.516Z",
+        "deviceType": "Mark Two",
+        "name": null,
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2017-12-11T22:54:07.516Z"
+      },
+      {
+        "_id": "49b41a55-02e3-4fee-8b6c-e5a9c7f3286f",
+        "created_at": "2018-10-16T15:45:35.791Z",
+        "deviceType": "Mark Two",
+        "name": "House Sparrow",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-04-30T14:21:12.623Z"
+      },
+      {
+        "_id": "3bcf0be4-7990-4514-a951-60aec15e1bdb",
+        "created_at": "2020-03-10T17:35:12.184Z",
+        "deviceType": "Mark Two",
+        "name": null,
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-03-10T17:35:12.184Z"
+      },
+      {
+        "_id": "0b63b284-a059-4247-bb9e-89872f184701",
+        "created_at": "2019-05-10T16:46:51.466Z",
+        "deviceType": "Mark Two",
+        "name": "MFG Lab Mark Two",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-11-18T18:09:56.765Z"
+      },
+      {
+        "_id": "029ac7c3-e422-44ae-b49b-92a36792d195",
+        "created_at": "2019-12-06T20:43:50.748Z",
+        "deviceType": "Mark Two",
+        "name": null,
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2019-12-06T20:43:50.748Z"
+      },
+      {
+        "_id": "fe04aecf-2a9d-4e9e-86d4-0d2b13fe966c",
+        "created_at": "2018-12-11T13:42:07.323Z",
+        "deviceType": "Onyx One",
+        "name": "Onyx One Kenobi",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-07-23T13:35:00.779Z"
+      },
+      {
+        "_id": "bf55250f-8265-4691-9434-6c27b2e47928",
+        "created_at": "2018-09-17T19:52:03.074Z",
+        "deviceType": "Mark Two",
+        "name": "Dorothy",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-06-01T18:43:34.440Z"
+      },
+      {
+        "_id": "18a08ae6-fe13-492f-9b22-9200733ec45b",
+        "created_at": "2020-06-16T10:56:20.272Z",
+        "deviceType": "X7",
+        "name": "Notes on NCAMP",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-10-13T15:08:25.178Z"
+      },
+      {
+        "_id": "3fd18705-1d9b-472b-ba1c-24b995f7fcb4",
+        "created_at": "2016-12-05T14:08:37.322Z",
+        "deviceType": "Onyx Pro",
+        "name": "Katherine",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-06-19T15:24:08.410Z"
+      },
+      {
+        "_id": "49e9fa79-f214-4223-a0a7-78e1425af553",
+        "created_at": "2018-01-16T15:28:20.372Z",
+        "deviceType": "X7",
+        "name": "Dislocation Frustration What In Tarnation",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-09-30T01:24:40.747Z"
+      },
+      {
+        "_id": "acfa0a32-6c50-4e22-af28-bd2c5621ba76",
+        "created_at": "2020-06-16T14:52:24.429Z",
+        "deviceType": "Mark Two",
+        "name": null,
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-06-16T14:52:24.429Z"
+      },
+      {
+        "_id": "2f9ff0b0-6062-11e4-a5a9-61461caf1748",
+        "created_at": "2014-10-30T18:25:55.002Z",
+        "deviceType": "Mark Two",
+        "name": "Fiberator",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-05-26T21:12:45.433Z"
+      },
+      {
+        "_id": "5ff189d2-3596-40d3-a58f-8841025b2d59",
+        "created_at": "2020-06-16T15:04:25.093Z",
+        "deviceType": "Mark Two",
+        "name": null,
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-06-16T15:04:25.093Z"
+      },
+      {
+        "_id": "824bd900-b169-48de-b974-22512f96f0d4",
+        "created_at": "2020-06-16T15:04:33.157Z",
+        "deviceType": "Mark Two",
+        "name": null,
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-06-16T15:04:33.157Z"
+      },
+      {
+        "_id": "d72e8894-5ef4-49ac-a3d7-b5c4ca9f7587",
+        "created_at": "2018-08-16T11:32:15.830Z",
+        "deviceType": "Mark Two",
+        "name": "JT",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-05-26T21:12:45.433Z"
+      },
+      {
+        "_id": "9eba2133-b0b2-4ded-908a-abc7bb0795ec",
+        "created_at": "2020-06-16T15:04:35.430Z",
+        "deviceType": "Mark Two",
+        "name": null,
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-06-16T15:04:35.430Z"
+      },
+      {
+        "_id": "f3c3def0-8976-4b89-96b4-fa5ea74893e9",
+        "created_at": "2020-06-16T15:04:40.154Z",
+        "deviceType": "Mark Two",
+        "name": null,
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-06-16T15:04:40.154Z"
+      },
+      {
+        "_id": "1e242414-f813-4fdf-964a-e49fd940c723",
+        "created_at": "2018-09-04T17:34:59.018Z",
+        "deviceType": "X7",
+        "name": "Rosalind",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-08-11T14:06:39.504Z"
+      },
+      {
+        "_id": "6b6a670e-eb06-4efa-bd00-024f2d50073b",
+        "created_at": "2020-06-16T15:04:36.295Z",
+        "deviceType": "Mark Two",
+        "name": null,
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-06-16T15:04:36.295Z"
+      },
+      {
+        "_id": "0def1742-21f0-4ed0-a8fa-2e4e95272a88",
+        "created_at": "2020-06-16T15:04:40.569Z",
+        "deviceType": "Mark Two",
+        "name": null,
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-06-16T15:04:40.569Z"
+      },
+      {
+        "_id": "a15eecc6-8ff6-472b-a876-b219417c5a17",
+        "created_at": "2019-03-11T16:51:43.861Z",
+        "deviceType": "Mark Two",
+        "name": "Shrug Dude",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-05-26T21:12:45.433Z"
+      },
+      {
+        "_id": "9cd8d573-f81b-4866-a973-747fdff3d6ed",
+        "created_at": "2017-10-06T13:47:17.745Z",
+        "deviceType": "Sinter-2",
+        "name": "!CT S-2 IN A BOX",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-04-10T16:48:24.523Z"
+      },
+      {
+        "_id": "4949c8bd-47ea-4249-8315-5f8b49d4f692",
+        "created_at": "2020-06-16T15:04:40.686Z",
+        "deviceType": "Mark Two",
+        "name": null,
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-06-16T15:04:40.686Z"
+      },
+      {
+        "_id": "6d843e70-8562-11e4-98a7-ed228549cf71",
+        "created_at": "2014-12-16T20:30:51.863Z",
+        "deviceType": "Mark Two",
+        "name": "85 Showroom Mark Two",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-05-26T21:12:45.433Z"
+      },
+      {
+        "_id": "e8c2a4f5-5fe3-485c-bc01-8ab716413366",
+        "created_at": "2020-06-16T15:04:41.435Z",
+        "deviceType": "Unknown",
+        "name": "Spruce Goose",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-10-19T15:26:24.893Z"
+      },
+      {
+        "_id": "bda2ffb8-fc29-42ac-bcfa-b3244ebb5456",
+        "created_at": "2019-06-07T16:15:17.870Z",
+        "deviceType": "Onyx One",
+        "name": "MFG Lab Onyx One Top Shelf",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2021-01-20T21:28:30.329Z"
+      },
+      {
+        "_id": "85269f43-843c-479a-9edb-009d1479fc83",
+        "created_at": "2020-11-20T08:10:49.000Z",
+        "deviceType": "Mark Two",
+        "name": null,
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-11-20T08:10:49.000Z"
+      },
+      {
+        "_id": "63c2a835-cb19-417a-8c3e-487a4687f3c6",
+        "created_at": "2017-10-06T12:51:00.438Z",
+        "deviceType": "Mark Two",
+        "name": "Tom\u0027s BBB",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-10-08T22:58:27.410Z"
+      },
+      {
+        "_id": "daf3cec5-0c51-4653-8858-fbdf33f9bb48",
+        "created_at": "2019-04-24T17:18:45.967Z",
+        "deviceType": "Onyx One",
+        "name": "Belted Kingfisher",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-06-01T18:43:34.440Z"
+      },
+      {
+        "_id": "ab261d90-0cac-48cb-9d43-36727a344ca3",
+        "created_at": "2018-10-11T14:31:29.492Z",
+        "deviceType": "Mark Two",
+        "name": "Marca Dos",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-05-26T21:12:45.433Z"
+      },
+      {
+        "_id": "a4b057e6-50a9-4275-8a85-c0b486bd5ec1",
+        "created_at": "2018-08-18T12:49:10.439Z",
+        "deviceType": "Metal X",
+        "name": "Natbara",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-11-19T03:16:29.579Z"
+      },
+      {
+        "_id": "0e52b2cc-4301-4a60-b0b3-605d216fd9d1",
+        "created_at": "2019-04-18T15:23:10.692Z",
+        "deviceType": "Onyx One",
+        "name": "Northern Flicker",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-06-01T18:43:34.440Z"
+      },
+      {
+        "_id": "3e56e9bb-a7e0-416e-a05c-0ac7a56c18f5",
+        "created_at": "2020-11-20T17:34:15.030Z",
+        "deviceType": "Mark Two",
+        "name": null,
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-11-20T17:34:15.030Z"
+      },
+      {
+        "_id": "e434b0b2-fa4d-4db2-b812-50a3d3f529c0",
+        "created_at": "2018-01-18T16:16:51.113Z",
+        "deviceType": "Mark Two",
+        "name": "Rita",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-05-26T21:12:45.433Z"
+      },
+      {
+        "_id": "0bce6380-049d-11e5-82cf-0ddb6ca164eb",
+        "created_at": "2015-05-27T18:21:41.196Z",
+        "deviceType": "Mark Two",
+        "name": "Unbreakable",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-05-26T21:12:45.433Z"
+      },
+      {
+        "_id": "66fe85d0-249d-11e5-8310-9de0eced2d4e",
+        "created_at": "2015-07-07T11:43:53.927Z",
+        "deviceType": "Mark Two",
+        "name": "Johnnie",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-05-26T21:12:45.433Z"
+      },
+      {
+        "_id": "46b5c470-46b4-424e-953e-eca91dc144de",
+        "created_at": "2020-03-05T15:47:22.716Z",
+        "deviceType": "Mark Two",
+        "name": "Dan\u0027s Mark One",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-04-04T14:03:54.219Z"
+      },
+      {
+        "_id": "0a8da10c-4a5c-498e-9afe-8e98083153e3",
+        "created_at": "2020-11-13T18:56:57.523Z",
+        "deviceType": "Mark Two",
+        "name": null,
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-11-13T18:56:57.523Z"
+      },
+      {
+        "_id": "5e910c18-1134-46c7-a93d-a5f1a0498fc0",
+        "created_at": "2019-01-23T16:46:01.542Z",
+        "deviceType": "Sinter-2",
+        "name": "QA NRTLsaurus Rex",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-02-18T14:09:22.111Z"
+      },
+      {
+        "_id": "8e942e11-8119-4bff-9e0b-da2f0965eb36",
+        "created_at": "2019-03-18T12:36:03.167Z",
+        "deviceType": "Metal X",
+        "name": "01_Alpine",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2021-01-22T14:14:26.004Z"
+      },
+      {
+        "_id": "2101b3e6-5943-4459-83f0-384f379051c0",
+        "created_at": "2019-12-17T19:13:11.680Z",
+        "deviceType": "Mark Two",
+        "name": null,
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2019-12-17T19:13:11.680Z"
+      },
+      {
+        "_id": "333dbe51-a4e1-401f-81db-902948d31c0e",
+        "created_at": "2019-11-08T19:04:48.982Z",
+        "deviceType": "Mark Two",
+        "name": null,
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2019-11-08T19:04:48.982Z"
+      },
+      {
+        "_id": "0618d398-c8e1-4619-9862-316f4e9609a5",
+        "created_at": "2019-12-19T16:39:55.399Z",
+        "deviceType": "Mark Two",
+        "name": null,
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2019-12-19T16:39:55.399Z"
+      },
+      {
+        "_id": "618a0be9-e87f-4aab-a58a-387730843fa3",
+        "created_at": "2021-01-06T15:24:34.410Z",
+        "deviceType": "Mark Two",
+        "name": null,
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2021-01-06T15:24:34.410Z"
+      },
+      {
+        "_id": "d26877c5-20ec-4e96-901e-cb30874a4fe7",
+        "created_at": "2019-11-12T18:51:35.010Z",
+        "deviceType": "Mark Two",
+        "name": null,
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2019-11-12T18:51:35.010Z"
+      },
+      {
+        "_id": "2f52ac86-5133-47d1-8aa3-db18d042b101",
+        "created_at": "2019-06-14T17:46:26.582Z",
+        "deviceType": "Mark Two",
+        "name": "Mo\u0027s Mark",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-10-06T03:01:08.427Z"
+      },
+      {
+        "_id": "9bfe7d2d-5596-461c-83ea-166d7c5eb7e2",
+        "created_at": "2019-05-15T18:13:00.965Z",
+        "deviceType": "X7",
+        "name": "RCA-1290",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-12-02T18:30:51.529Z"
+      },
+      {
+        "_id": "b4b5264c-4847-43ee-ae4d-e53047288ea1",
+        "created_at": "2020-09-29T16:29:37.221Z",
+        "deviceType": "Mark Two",
+        "name": null,
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-09-29T16:29:37.221Z"
+      },
+      {
+        "_id": "bb351ffd-88b6-4ffe-be7d-80c79a5d42ab",
+        "created_at": "2020-06-23T15:02:30.024Z",
+        "deviceType": "Mark Two",
+        "name": null,
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-06-23T15:02:30.024Z"
+      },
+      {
+        "_id": "06381cf8-2334-487b-ac21-fbabee0b66aa",
+        "created_at": "2019-01-25T13:07:48.954Z",
+        "deviceType": "Metal X",
+        "name": "Bisiesto",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2021-03-02T16:47:05.426Z"
+      },
+      {
+        "_id": "3dfcea2d-5342-4be5-b3e8-d58fa40de8b7",
+        "created_at": "2019-11-06T14:10:42.357Z",
+        "deviceType": "Mark Two",
+        "name": null,
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2019-11-06T14:10:42.357Z"
+      },
+      {
+        "_id": "e43822f7-a323-4250-aaa7-8b44e09e1276",
+        "created_at": "2019-09-11T11:03:29.613Z",
+        "deviceType": "X7",
+        "name": "MFG Lab X7",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-11-18T18:01:08.699Z"
+      },
+      {
+        "_id": "5721f4e2-a5fb-4b9f-a10e-d70c8874bc77",
+        "created_at": "2019-10-31T18:20:43.173Z",
+        "deviceType": "Mark Two",
+        "name": "Brisket",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-10-23T15:53:23.439Z"
+      },
+      {
+        "_id": "5140f8d2-3f57-4c05-8467-0a055278bca6",
+        "created_at": "2017-09-06T12:53:50.160Z",
+        "deviceType": "Mark Two",
+        "name": "Knock Knock!",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2021-03-05T18:07:35.055Z"
+      },
+      {
+        "_id": "c41078fd-2c28-4b7c-b5cb-44d635a07180",
+        "created_at": "2016-12-30T10:45:25.937Z",
+        "deviceType": "Onyx One",
+        "name": "Mechagodzilla",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2017-05-17T14:11:28.478Z"
+      },
+      {
+        "_id": "759c8efe-dfe6-4f12-bf7c-37ea3c77caad",
+        "created_at": "2020-08-03T14:41:04.899Z",
+        "deviceType": "Mark Two",
+        "name": null,
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-08-03T14:41:04.899Z"
+      },
+      {
+        "_id": "3e3ed9dd-6c8a-491a-8467-ef66eb0c2ad3",
+        "created_at": "2018-03-22T14:02:45.830Z",
+        "deviceType": "Mark Two",
+        "name": "Waffle",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-10-01T14:25:23.659Z"
+      },
+      {
+        "_id": "e39464ab-3422-4b13-84cb-84ca6bbe5420",
+        "created_at": "2020-09-06T18:07:51.496Z",
+        "deviceType": "Mark Two",
+        "name": null,
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-09-06T18:07:51.496Z"
+      },
+      {
+        "_id": "4082f856-8872-4bbe-9291-93e314d93874",
+        "created_at": "2020-10-07T16:48:37.756Z",
+        "deviceType": "X7",
+        "name": "monkey wandering",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2021-01-13T23:37:32.696Z"
+      },
+      {
+        "_id": "36e93059-cd68-4508-a3cf-60bbdf709133",
+        "created_at": "2017-01-04T14:58:25.225Z",
+        "deviceType": "Mark Two",
+        "name": "Wumbology",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2021-01-19T20:50:47.466Z"
+      },
+      {
+        "_id": "f8708ec0-e57f-4a72-bee7-8e48a62ebe70",
+        "created_at": "2020-06-24T22:55:45.302Z",
+        "deviceType": "Unknown",
+        "name": "Chrysler Pacifica",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-06-24T23:01:13.705Z"
+      },
+      {
+        "_id": "85320463-597f-424b-9e18-b383ad4d38ba",
+        "created_at": "2021-02-27T04:21:11.912Z",
+        "deviceType": "Mark Two",
+        "name": null,
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2021-02-27T04:21:11.912Z"
+      },
+      {
+        "_id": "fd6495ad-a44b-4e43-be72-00e005cf1f77",
+        "created_at": "2020-01-28T13:59:08.049Z",
+        "deviceType": "Mark Two",
+        "name": null,
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-01-28T13:59:08.049Z"
+      },
+      {
+        "_id": "c35124bf-598a-4d13-a6a3-9eb98410b66e",
+        "created_at": "2017-10-04T14:39:44.754Z",
+        "deviceType": "Mark Two",
+        "name": "Static IP Test Group 1-5",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-08-10T15:56:36.210Z"
+      },
+      {
+        "_id": "5f7560ed-1b05-4360-ad6a-118cc7ecab80",
+        "created_at": "2017-10-04T15:15:19.812Z",
+        "deviceType": "Sinter-1",
+        "name": "Disco Inferno",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2018-04-23T20:11:40.912Z"
+      },
+      {
+        "_id": "45ef750c-6499-4b78-ad99-f7938fce0ca7",
+        "created_at": "2020-04-15T11:26:02.748Z",
+        "deviceType": "X7",
+        "name": "Barred Owl",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-10-29T14:53:17.873Z"
+      },
+      {
+        "_id": "7ccb25a9-fb1a-48ae-b8a8-277c7106a6b5",
+        "created_at": "2018-09-28T14:45:16.271Z",
+        "deviceType": "Onyx One",
+        "name": "TRC-R2-D2",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-10-06T18:09:45.180Z"
+      },
+      {
+        "_id": "37ccf78b-bdf2-449f-9ab3-91e3615a262f",
+        "created_at": "2019-02-20T15:37:39.897Z",
+        "deviceType": "Metal X",
+        "name": "!Electric Boogaloo",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-05-13T20:17:59.244Z"
+      },
+      {
+        "_id": "63f7187a-d56e-442b-8dfb-7c87c21a70b0",
+        "created_at": "2021-01-15T20:44:54.507Z",
+        "deviceType": "Mark Two",
+        "name": "Art\u0027s BBB",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2021-01-15T20:52:20.162Z"
+      },
+      {
+        "_id": "ed49e686-6d97-4232-9ced-3835148bd1df",
+        "created_at": "2020-05-14T12:06:43.838Z",
+        "deviceType": "Mark Two",
+        "name": "Mike Two",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-10-10T23:10:02.923Z"
+      },
+      {
+        "_id": "bb0ad9a2-43a5-4712-8526-f937ac21e672",
+        "created_at": "2020-04-15T12:34:03.948Z",
+        "deviceType": "X7",
+        "name": "Silicon Smolboi",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-11-13T22:48:34.673Z"
+      },
+      {
+        "_id": "1a37da17-fd1e-4b8a-bee2-a91a8e6f0ac4",
+        "created_at": "2020-04-15T13:19:57.679Z",
+        "deviceType": "X7",
+        "name": "FAE Nate Dogg",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-05-12T21:22:40.291Z"
+      },
+      {
+        "_id": "af0c0df3-779e-440e-ab54-bf0c95e959bf",
+        "created_at": "2020-01-31T21:56:02.338Z",
+        "deviceType": "Mark Two",
+        "name": null,
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-01-31T21:56:05.644Z"
+      },
+      {
+        "_id": "bb616e78-392d-4a41-959a-720881c6bcc3",
+        "created_at": "2019-01-24T12:34:37.151Z",
+        "deviceType": "Mark Two",
+        "name": "Quentin Quarantino",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-03-12T16:14:27.839Z"
+      },
+      {
+        "_id": "d545ca3f-6998-41b0-a532-d76f497635fe",
+        "created_at": "2020-04-15T13:43:49.424Z",
+        "deviceType": "X7",
+        "name": "FAE PureMichigan",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-05-15T15:23:05.046Z"
+      },
+      {
+        "_id": "b60710d7-5cd4-4ac5-b53d-9b329c6a3d9f",
+        "created_at": "2020-02-01T20:42:16.845Z",
+        "deviceType": "Unknown",
+        "name": null,
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-02-01T20:48:30.883Z"
+      },
+      {
+        "_id": "a417aae7-a970-47eb-8bbd-f398526795f8",
+        "created_at": "2018-05-23T14:44:36.978Z",
+        "deviceType": "Mark Two",
+        "name": "Curiosity",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-04-15T14:38:45.669Z"
+      },
+      {
+        "_id": "c0139bd3-4bf7-4b6a-bd27-2091d1974af9",
+        "created_at": "2020-06-30T13:21:48.730Z",
+        "deviceType": "X3",
+        "name": "Altezza",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2021-01-15T23:56:34.045Z"
+      },
+      {
+        "_id": "bc99b4f9-44ca-464f-a183-de98dbb9ef65",
+        "created_at": "2019-07-22T13:52:25.513Z",
+        "deviceType": "Mark Two",
+        "name": "ST Home",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-08-07T22:32:35.097Z"
+      },
+      {
+        "_id": "8124d68c-c70f-4c57-96bb-18c761bc7e06",
+        "created_at": "2020-02-01T20:50:06.476Z",
+        "deviceType": "Unknown",
+        "name": null,
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-02-01T20:50:33.984Z"
+      },
+      {
+        "_id": "a74c3476-c6e5-4ab2-b771-7fb662ebe8fa",
+        "created_at": "2020-06-30T21:14:38.390Z",
+        "deviceType": "Unknown",
+        "name": "Beefcake",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-08-11T15:50:24.603Z"
+      },
+      {
+        "_id": "dc53fe35-7902-4322-9bb4-1b9778fef6ae",
+        "created_at": "2020-02-01T20:51:08.858Z",
+        "deviceType": "X7",
+        "name": null,
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-02-01T20:51:31.314Z"
+      },
+      {
+        "_id": "d441dd27-616c-49e8-b0c8-9a94840f09a3",
+        "created_at": "2019-04-18T18:27:47.408Z",
+        "deviceType": "Metal X",
+        "name": "Metal XS Max",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-11-20T22:07:37.872Z"
+      },
+      {
+        "_id": "8b83b115-fc1d-4a3e-8568-00bb2091cf09",
+        "created_at": "2019-04-18T15:48:50.139Z",
+        "deviceType": "Metal X",
+        "name": "QA Metal X 2",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-11-19T16:58:46.583Z"
+      },
+      {
+        "_id": "076856b2-55d0-4704-87fd-48884d599311",
+        "created_at": "2019-04-08T13:46:22.567Z",
+        "deviceType": "X7",
+        "name": "Atch!",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2021-03-05T18:07:10.223Z"
+      },
+      {
+        "_id": "be833bf5-b8df-462f-8cdd-4f23654b9b31",
+        "created_at": "2018-10-24T16:07:38.640Z",
+        "deviceType": "Mark Two",
+        "name": "QA MK2 A3648",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2021-02-19T17:13:48.950Z"
+      },
+      {
+        "_id": "b0bf28be-7030-43fe-962b-531ef7cc7700",
+        "created_at": "2019-02-22T12:53:00.096Z",
+        "deviceType": "X7",
+        "name": "QA X7 A3016",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2021-01-25T16:37:24.897Z"
+      },
+      {
+        "_id": "976ad382-902f-4db3-bbff-d8ccb0caec01",
+        "created_at": "2019-01-08T15:32:39.562Z",
+        "deviceType": "Metal X",
+        "name": "Gort",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-05-20T20:50:36.553Z"
+      },
+      {
+        "_id": "d39454df-4c43-4c59-8d0c-bda4c91233ce",
+        "created_at": "2019-07-18T11:36:12.202Z",
+        "deviceType": "Onyx One",
+        "name": "MFG Lab Onyx One Middle Shelf",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2021-01-20T21:30:42.412Z"
+      },
+      {
+        "_id": "cc30f92c-f007-4b94-b1d0-f4ffb4832f05",
+        "created_at": "2019-04-19T12:42:39.894Z",
+        "deviceType": "Mark Two",
+        "name": "TRC-BBB-1-51",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-05-27T17:40:40.556Z"
+      },
+      {
+        "_id": "1b14d8da-99a7-4e02-ba15-aa9aa686a72f",
+        "created_at": "2019-11-12T18:46:35.774Z",
+        "deviceType": "Mark Two",
+        "name": null,
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2019-11-12T18:46:35.774Z"
+      },
+      {
+        "_id": "732e4d17-bb82-4078-9077-c32df65cffa1",
+        "created_at": "2020-02-26T16:16:33.669Z",
+        "deviceType": "Mark Two",
+        "name": "Printy McPrinterface",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-11-04T18:11:37.368Z"
+      },
+      {
+        "_id": "e3d31b84-4717-4aa5-a969-93eb6275c8a5",
+        "created_at": "2019-04-08T04:57:17.411Z",
+        "deviceType": "Mark Two",
+        "name": null,
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2019-04-08T04:57:17.411Z"
+      },
+      {
+        "_id": "4a35a66b-3c9a-407a-9d70-ba18b9c3f3b3",
+        "created_at": "2020-04-20T19:59:03.051Z",
+        "deviceType": "X7",
+        "name": "Erin\u0027s X7",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-10-02T21:07:28.018Z"
+      },
+      {
+        "_id": "9900b24d-5025-4b80-ba01-7dd2843da988",
+        "created_at": "2018-12-03T12:14:20.824Z",
+        "deviceType": "Metal X",
+        "name": "Refurb Metal X",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-12-18T20:28:55.807Z"
+      },
+      {
+        "_id": "a1fac73d-c822-443e-a0fa-044a51cff618",
+        "created_at": "2020-07-07T19:48:25.483Z",
+        "deviceType": "Mark Two",
+        "name": null,
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-07-07T19:48:25.483Z"
+      },
+      {
+        "_id": "1200c058-b496-4320-abe2-483f023106da",
+        "created_at": "2018-05-16T14:26:19.323Z",
+        "deviceType": "Mark Two",
+        "name": "Phoenix-DevMock",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2021-03-11T18:35:22.596Z"
+      },
+      {
+        "_id": "950a3c93-cc85-4bc0-b97a-8314155a7500",
+        "created_at": "2019-11-12T23:12:49.606Z",
+        "deviceType": "Mark Two",
+        "name": null,
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2019-11-12T23:12:49.606Z"
+      },
+      {
+        "_id": "96d58798-3392-4998-9520-72f46b0546f3",
+        "created_at": "2021-03-09T20:13:04.658Z",
+        "deviceType": "Mark Two",
+        "name": null,
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2021-03-09T20:13:04.658Z"
+      },
+      {
+        "_id": "83efb76b-5354-4e7f-8111-f5aa36ed0ef9",
+        "created_at": "2021-01-25T19:14:42.168Z",
+        "deviceType": "Mark Two",
+        "name": "Devin\u0027s Fake Printer",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2021-03-15T19:41:13.558Z"
+      },
+      {
+        "_id": "f335c1a4-96e1-45c0-bff5-481cd8752ae6",
+        "created_at": "2021-01-27T09:54:22.560Z",
+        "deviceType": "Mark Two",
+        "name": null,
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2021-01-27T09:54:22.560Z"
+      },
+      {
+        "_id": "dc3ed8cc-2e28-476c-8ea8-be8857a4a894",
+        "created_at": "2019-12-04T19:44:38.644Z",
+        "deviceType": "Mark Two",
+        "name": null,
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2019-12-04T19:44:38.644Z"
+      },
+      {
+        "_id": "71599958-0c57-4cc9-9ffc-c77ff13260bb",
+        "created_at": "2017-12-11T15:37:15.193Z",
+        "deviceType": "Onyx One",
+        "name": "R-05",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-03-23T16:53:33.752Z"
+      },
+      {
+        "_id": "04a069dd-ca47-476a-ad2b-af69d754a8bf",
+        "created_at": "2018-01-18T14:52:54.465Z",
+        "deviceType": "Mark Two",
+        "name": "wtf is r2k0?",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-03-16T13:34:40.285Z"
+      },
+      {
+        "_id": "3139b760-d426-11e5-9ec7-15141684bc12",
+        "created_at": "2016-02-15T21:50:08.844Z",
+        "deviceType": "X7",
+        "name": "Chloe",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2021-03-08T16:23:20.999Z"
+      },
+      {
+        "_id": "4040ba4b-7b32-4077-9027-c69702fc6044",
+        "created_at": "2020-12-24T18:31:00.975Z",
+        "deviceType": "Mark Two",
+        "name": null,
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-12-24T18:31:00.975Z"
+      },
+      {
+        "_id": "50b84522-d6af-4644-89aa-d55af9041d9f",
+        "created_at": "2019-06-03T14:27:57.746Z",
+        "deviceType": "X7",
+        "name": "Mute Swan",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2021-03-17T19:47:36.157Z"
+      },
+      {
+        "_id": "9f4775f7-2d8b-4fa4-95b9-8323fc18c199",
+        "created_at": "2019-03-12T10:31:13.247Z",
+        "deviceType": "Mark Two",
+        "name": "Skål",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2021-01-25T03:29:22.811Z"
+      },
+      {
+        "_id": "172753c5-3650-4ffe-9a38-462495609deb",
+        "created_at": "2019-08-08T13:39:05.270Z",
+        "deviceType": "X7",
+        "name": "Golden Eagle",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-02-18T14:07:39.063Z"
+      },
+      {
+        "_id": "df70c53d-6894-4a37-b653-9fc5566b7dbb",
+        "created_at": "2021-03-12T16:52:58.599Z",
+        "deviceType": "Mark Two",
+        "name": null,
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2021-03-12T16:52:58.599Z"
+      },
+      {
+        "_id": "ca61d0c3-7e05-46f5-a0a3-979919cb3f4f",
+        "created_at": "2019-08-08T13:44:57.106Z",
+        "deviceType": "X7",
+        "name": "Rockhopper Penguin",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-10-12T19:40:19.616Z"
+      },
+      {
+        "_id": "cae0ed28-b814-4b9d-933d-10a8dc0eaa20",
+        "created_at": "2019-03-11T15:53:55.354Z",
+        "deviceType": "Metal X",
+        "name": "Krakatau",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-04-23T15:48:14.856Z"
+      },
+      {
+        "_id": "e7eabb7b-58de-4976-8b0a-6ee32fa65ac8",
+        "created_at": "2016-12-02T18:20:03.640Z",
+        "deviceType": "Mark Two",
+        "name": "Gin and Tonyx",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-05-26T21:12:45.433Z"
+      },
+      {
+        "_id": "97cfcef8-1032-430d-8767-a3311e971c6e",
+        "created_at": "2018-03-06T19:05:30.970Z",
+        "deviceType": "Mark Two",
+        "name": "Smooth Operator",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-05-02T01:08:31.942Z"
+      },
+      {
+        "_id": "a5a19504-8c85-45dc-8f99-c5e1a34022ee",
+        "created_at": "2020-07-16T19:41:36.089Z",
+        "deviceType": "Unknown",
+        "name": "Nova",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-11-03T15:36:37.215Z"
+      },
+      {
+        "_id": "d9a30db4-78fe-4898-8f00-698be3bd0501",
+        "created_at": "2018-05-10T10:32:27.534Z",
+        "deviceType": "X7",
+        "name": "Kwolek",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-10-20T20:56:17.566Z"
+      },
+      {
+        "_id": "8f797992-ad3c-490b-9762-7ff53d5006da",
+        "created_at": "2020-04-27T12:03:35.127Z",
+        "deviceType": "X7",
+        "name": "Bald Eagle",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-10-29T14:54:11.275Z"
+      },
+      {
+        "_id": "72fb07c0-0545-4c3a-b9d3-05c10d83a61d",
+        "created_at": "2020-04-27T12:24:33.036Z",
+        "deviceType": "X7",
+        "name": "Peregrine Falcon",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-10-29T14:52:16.929Z"
+      },
+      {
+        "_id": "30ea2bca-4f80-4b16-9c90-f2653396d19c",
+        "created_at": "2020-04-27T13:01:08.022Z",
+        "deviceType": "Mark Two",
+        "name": null,
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-04-27T13:01:08.022Z"
+      },
+      {
+        "_id": "e23d0953-7930-4e61-a1a3-63f036cb3769",
+        "created_at": "2017-09-28T14:25:02.802Z",
+        "deviceType": "Onyx One",
+        "name": "Na Zdrowie!",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2021-03-05T16:04:03.851Z"
+      },
+      {
+        "_id": "c75fa722-c3fd-4dd2-a463-c75cf057ae92",
+        "created_at": "2018-11-09T15:23:15.610Z",
+        "deviceType": "Mark Two",
+        "name": null,
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2018-11-09T15:23:15.610Z"
+      },
+      {
+        "_id": "95c1f14a-7c1b-45c0-9f61-0d950b140e9b",
+        "created_at": "2019-10-26T11:13:17.062Z",
+        "deviceType": "X7",
+        "name": "Joce\u0027s X7",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-06-29T13:12:48.994Z"
+      },
+      {
+        "_id": "d24a5205-5b6d-44d8-bc8a-004cb86cca1b",
+        "created_at": "2021-02-03T14:26:07.081Z",
+        "deviceType": "Mark Two",
+        "name": null,
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2021-02-03T14:26:07.081Z"
+      },
+      {
+        "_id": "b8b8adbe-76ba-42f7-89ed-1582b492c871",
+        "created_at": "2019-10-31T17:00:02.627Z",
+        "deviceType": "Mark Two",
+        "name": null,
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2019-10-31T17:00:02.627Z"
+      },
+      {
+        "_id": "a9e2db64-fd32-4591-8c07-e7a062abdc6b",
+        "created_at": "2019-10-31T17:00:58.574Z",
+        "deviceType": "Mark Two",
+        "name": null,
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2019-10-31T17:00:58.574Z"
+      },
+      {
+        "_id": "763fc727-2919-41ef-9425-0a16e3163f87",
+        "created_at": "2018-12-20T12:08:49.607Z",
+        "deviceType": "Onyx Pro",
+        "name": "RFB-1844 Onyx Pro (Gen 1)",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2021-03-16T18:27:18.931Z"
+      },
+      {
+        "_id": "4f9160cc-2180-4d45-adf8-87176fb8f0d1",
+        "created_at": "2020-04-28T16:29:15.617Z",
+        "deviceType": "Unknown",
+        "name": "Pridgerator",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2021-02-10T21:27:40.618Z"
+      },
+      {
+        "_id": "bbf7361b-c7a2-4379-b968-ac77325f81cf",
+        "created_at": "2020-03-18T17:40:17.916Z",
+        "deviceType": "Mark Two",
+        "name": "Red-Winged Blackbird",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-06-04T18:42:54.049Z"
+      },
+      {
+        "_id": "7f436ca5-f1ef-40d1-abc8-dc80ca35b4de",
+        "created_at": "2020-03-18T17:50:34.964Z",
+        "deviceType": "Onyx One",
+        "name": "Beta Ray Bill",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-06-29T14:08:16.472Z"
+      },
+      {
+        "_id": "67db7bc0-5fc5-4f46-a9dd-265981588f3f",
+        "created_at": "2019-01-08T15:15:32.911Z",
+        "deviceType": "Metal X",
+        "name": "Steely Dan",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-11-30T23:56:38.976Z"
+      },
+      {
+        "_id": "8a6f2b0b-408a-4b6e-a57d-541bfdbc0ae1",
+        "created_at": "2019-12-02T16:33:50.227Z",
+        "deviceType": "Mark Two",
+        "name": null,
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2019-12-02T16:33:50.227Z"
+      },
+      {
+        "_id": "d7976904-84c9-409b-a12a-a7a6b5464736",
+        "created_at": "2019-06-07T14:38:03.173Z",
+        "deviceType": "X7",
+        "name": "Solid Snake",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-07-06T11:23:09.090Z"
+      },
+      {
+        "_id": "e8d95496-40df-43cf-b4b0-471d6c0c2c9a",
+        "created_at": "2019-02-06T19:01:00.523Z",
+        "deviceType": "Mark Two",
+        "name": null,
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2019-02-06T19:01:00.523Z"
+      },
+      {
+        "_id": "12cc9e00-8ec0-445b-bbb8-fc0a584c0dea",
+        "created_at": "2018-09-19T10:34:35.521Z",
+        "deviceType": "Mark Two",
+        "name": "Grace",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-04-10T18:29:19.199Z"
+      },
+      {
+        "_id": "b5a172a3-eacb-49f9-8721-1ffd821c27c4",
+        "created_at": "2020-03-19T12:11:40.212Z",
+        "deviceType": "Mark Two",
+        "name": "Lucifer",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-07-10T14:13:25.658Z"
+      },
+      {
+        "_id": "bea2682f-0843-45b0-8cef-c4fa1c29db87",
+        "created_at": "2021-02-08T19:39:22.141Z",
+        "deviceType": "Mark Two",
+        "name": null,
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2021-02-08T19:39:22.141Z"
+      },
+      {
+        "_id": "7172ed83-c39d-4b1a-9d05-92d193d0e366",
+        "created_at": "2020-04-30T18:36:33.084Z",
+        "deviceType": "Mark Two",
+        "name": null,
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-04-30T18:36:33.084Z"
+      },
+      {
+        "_id": "62cb514c-af36-4aa4-9e14-1c3ddcc5e3c6",
+        "created_at": "2020-05-01T20:19:06.824Z",
+        "deviceType": "Mark Two",
+        "name": null,
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-05-01T20:19:06.824Z"
+      },
+      {
+        "_id": "ee815787-cc9c-410e-85d6-ba9675a52c77",
+        "created_at": "2020-05-01T23:10:56.594Z",
+        "deviceType": "Mark Two",
+        "name": "alex dummy",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-05-01T23:13:26.423Z"
+      },
+      {
+        "_id": "1764ed48-cc8f-4ebc-96bb-80537eeb2f06",
+        "created_at": "2016-12-12T18:03:30.206Z",
+        "deviceType": "X7",
+        "name": "Deuteranopia",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-03-19T20:17:26.025Z"
+      },
+      {
+        "_id": "40e87858-2ad2-48c9-8c5e-d4afef11a626",
+        "created_at": "2020-05-04T20:55:41.309Z",
+        "deviceType": "Mark Two",
+        "name": null,
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-05-04T20:55:41.309Z"
+      },
+      {
+        "_id": "91d0d835-a6fc-4a54-a151-999c1b08c4b3",
+        "created_at": "2020-05-05T11:05:31.410Z",
+        "deviceType": "X7",
+        "name": "Osprey",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-10-29T14:52:49.581Z"
+      },
+      {
+        "_id": "f5fec721-8aa6-4b6a-b943-870038f31c0d",
+        "created_at": "2020-05-05T11:23:17.026Z",
+        "deviceType": "X7",
+        "name": "Nidavellir",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-10-28T17:49:51.293Z"
+      },
+      {
+        "_id": "0bcf1130-326a-4dc7-8e55-cc96fb12a572",
+        "created_at": "2020-05-05T22:00:52.132Z",
+        "deviceType": "Mark Two",
+        "name": null,
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-05-05T22:00:52.132Z"
+      },
+      {
+        "_id": "7e054e41-e52a-4857-8184-a57e09808ea5",
+        "created_at": "2017-05-08T14:18:26.834Z",
+        "deviceType": "Metal X",
+        "name": "Behemoth",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-04-10T16:42:16.426Z"
+      },
+      {
+        "_id": "cd5986d5-d99c-4e7d-8b58-4707645de80c",
+        "created_at": "2017-08-01T11:06:10.197Z",
+        "deviceType": "X5",
+        "name": "QA X5 A3648",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-06-19T15:28:05.764Z"
+      },
+      {
+        "_id": "fcc4e45f-6b30-417f-acbb-8bc6001c68b1",
+        "created_at": "2018-03-20T20:01:53.689Z",
+        "deviceType": "Mark Two",
+        "name": "QA MK2 A1095",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2021-01-05T17:07:12.405Z"
+      },
+      {
+        "_id": "1f112019-197e-4ba9-bff2-87a6f976a6f1",
+        "created_at": "2019-06-07T20:12:39.677Z",
+        "deviceType": "X7",
+        "name": "Yavin Fourged",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-03-27T17:28:16.555Z"
+      },
+      {
+        "_id": "585a9b65-5f54-49ca-9ff0-ebc4e8883a10",
+        "created_at": "2020-01-20T17:35:59.788Z",
+        "deviceType": "Mark Two",
+        "name": null,
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-01-20T17:35:59.788Z"
+      },
+      {
+        "_id": "13b6d17c-03a9-477b-832d-2e3fb0a9ae0f",
+        "created_at": "2020-03-24T14:53:49.364Z",
+        "deviceType": "Mark Two",
+        "name": "R-1K0",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-10-13T17:38:05.692Z"
+      },
+      {
+        "_id": "c416de20-2ef6-455c-a8da-ad5ce9f0a11d",
+        "created_at": "2018-03-07T16:24:43.482Z",
+        "deviceType": "Mark Two",
+        "name": "Chimera-DevMock",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-03-17T21:24:10.595Z"
+      },
+      {
+        "_id": "c2ed6d75-1bb6-4788-ab7d-3649854972ea",
+        "created_at": "2017-10-04T15:04:57.492Z",
+        "deviceType": "Sinter-1",
+        "name": "(But It\u0027s A) Dry Heat",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-02-18T14:08:46.896Z"
+      },
+      {
+        "_id": "8302fa63-ac2b-4993-9392-66226e1e6bcc",
+        "created_at": "2020-02-12T21:36:22.584Z",
+        "deviceType": "Mark Two",
+        "name": null,
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-02-12T21:36:22.584Z"
+      },
+      {
+        "_id": "3f4cf31d-4e8f-40e0-aa87-f05a76b227e6",
+        "created_at": "2019-09-10T18:57:40.772Z",
+        "deviceType": "X7",
+        "name": "Tropelaje",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-02-18T14:07:53.261Z"
+      },
+      {
+        "_id": "18910892-3a26-4f68-b577-76d7ae95f749",
+        "created_at": "2019-10-30T19:47:23.914Z",
+        "deviceType": "Mark Two",
+        "name": null,
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2019-10-30T19:47:23.914Z"
+      },
+      {
+        "_id": "e9503bc4-0dc2-4456-9a0c-ff8bbd8de83a",
+        "created_at": "2019-12-04T22:09:25.912Z",
+        "deviceType": "X7",
+        "name": "The Rocinante",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-02-18T17:14:58.640Z"
+      },
+      {
+        "_id": "ccb53bfc-6f68-4eb8-8f5f-a0625523d4a9",
+        "created_at": "2019-12-05T15:24:33.050Z",
+        "deviceType": "X7",
+        "name": "Longclaw",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-02-18T14:09:21.728Z"
+      },
+      {
+        "_id": "9ae6a9f3-9a4f-4d77-8e23-a1548ca799ad",
+        "created_at": "2019-12-05T18:53:27.876Z",
+        "deviceType": "Mark Two",
+        "name": null,
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2019-12-05T18:53:27.876Z"
+      },
+      {
+        "_id": "2a220202-9043-4a5b-b8bd-54df1e0349b9",
+        "created_at": "2020-01-09T14:37:29.751Z",
+        "deviceType": "Mark Two",
+        "name": null,
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-01-09T14:37:29.751Z"
+      },
+      {
+        "_id": "aaefd6fa-bd0a-4c9f-a471-ca363101d093",
+        "created_at": "2019-01-28T11:49:35.332Z",
+        "deviceType": "Mark Two",
+        "name": "MarkTwo-GDE",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-02-25T13:22:03.321Z"
+      },
+      {
+        "_id": "019f8ace-543f-4838-96d0-1d578012c808",
+        "created_at": "2019-04-22T15:22:16.206Z",
+        "deviceType": "X7",
+        "name": "Bleeding Horse",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-02-20T10:02:04.158Z"
+      },
+      {
+        "_id": "427a9ed8-a22c-4a05-af39-027ab4048805",
+        "created_at": "2019-12-09T19:13:38.934Z",
+        "deviceType": "Mark Two",
+        "name": null,
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2019-12-09T19:13:38.934Z"
+      },
+      {
+        "_id": "7c2f71ea-7116-424a-8611-d30640343f6e",
+        "created_at": "2018-10-29T17:35:28.141Z",
+        "deviceType": "Mark Two",
+        "name": "123454321",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-02-03T20:04:27.149Z"
+      },
+      {
+        "_id": "ae5ce604-033d-459d-94e4-e61443824c22",
+        "created_at": "2020-01-16T15:39:35.409Z",
+        "deviceType": "Mark Two",
+        "name": null,
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-01-16T15:39:35.409Z"
+      },
+      {
+        "_id": "f49738d5-33c5-40b2-81db-b208e85b123e",
+        "created_at": "2019-09-06T12:07:07.440Z",
+        "deviceType": "Mark Two",
+        "name": "Joce\u0027s Mark Two",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-02-21T08:38:00.329Z"
+      },
+      {
+        "_id": "f8ad4f81-25d8-432f-82dd-746a47a21ed9",
+        "created_at": "2019-11-04T19:45:44.079Z",
+        "deviceType": "Mark Two",
+        "name": null,
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2019-11-04T19:45:44.079Z"
+      },
+      {
+        "_id": "47e56899-d5da-47fa-9e6d-9d665f85ec64",
+        "created_at": "2019-11-05T07:29:18.645Z",
+        "deviceType": "Mark Two",
+        "name": null,
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2019-11-05T07:29:18.645Z"
+      },
+      {
+        "_id": "c92c742a-c812-431e-9af1-3a452b4c758b",
+        "created_at": "2019-11-05T13:30:27.751Z",
+        "deviceType": "X7",
+        "name": "RCA-1568 X7 (Gen 2)",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2021-03-12T15:56:31.795Z"
+      },
+      {
+        "_id": "5cef8f8e-13b7-414e-9dc2-cd634abc70b2",
+        "created_at": "2019-11-05T15:45:41.772Z",
+        "deviceType": "Mark Two",
+        "name": null,
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2019-11-05T15:45:41.772Z"
+      },
+      {
+        "_id": "05dec027-b126-40e3-a4ad-4b9ba8acfe3e",
+        "created_at": "2020-01-20T21:37:11.031Z",
+        "deviceType": "Mark Two",
+        "name": null,
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-01-20T21:37:11.031Z"
+      },
+      {
+        "_id": "1c63a34b-8f75-48fc-940a-7cb783b6eb33",
+        "created_at": "2019-11-05T18:01:42.730Z",
+        "deviceType": "X7",
+        "name": "Revolio Clockberg Jr.",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-04-09T16:56:34.418Z"
+      },
+      {
+        "_id": "fb3a81c1-a34e-420a-98c5-bb95219c7fc9",
+        "created_at": "2018-06-26T11:18:46.229Z",
+        "deviceType": "Mark Two",
+        "name": "Perictione",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-02-18T14:08:38.559Z"
+      },
+      {
+        "_id": "9a391a9f-eea2-4729-9dae-6297031b953e",
+        "created_at": "2020-02-28T16:07:21.913Z",
+        "deviceType": "Mark Two",
+        "name": null,
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-02-28T16:07:21.913Z"
+      },
+      {
+        "_id": "5c66ba92-052c-456b-8b28-baa47df5187c",
+        "created_at": "2017-08-10T14:08:35.037Z",
+        "deviceType": "Metal X",
+        "name": "Manowar",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-05-13T19:31:17.021Z"
+      },
+      {
+        "_id": "f55bf9fd-2a3f-4ffd-ad85-cbb4815c4a78",
+        "created_at": "2019-05-21T16:53:36.219Z",
+        "deviceType": "Mark Two",
+        "name": "\u003e+++++(\u0027\u003e",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2021-01-04T19:16:11.315Z"
+      },
+      {
+        "_id": "50421d31-b392-4ee4-b123-1d451814ac05",
+        "created_at": "2017-09-07T12:49:07.432Z",
+        "deviceType": "Metal X",
+        "name": "Metal X #8",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2017-10-03T15:07:58.589Z"
+      },
+      {
+        "_id": "d0bc1ecd-afc7-4531-9d83-3e7a59803067",
+        "created_at": "2020-02-28T18:22:52.893Z",
+        "deviceType": "Mark Two",
+        "name": null,
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-02-28T18:22:52.893Z"
+      },
+      {
+        "_id": "b1bb8eee-1d96-4fb6-9e54-aabb097c11e0",
+        "created_at": "2018-10-24T17:43:44.096Z",
+        "deviceType": "Onyx One",
+        "name": "QA O1 A3648",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2021-03-17T17:31:05.612Z"
+      },
+      {
+        "_id": "92f7d942-ecfa-4451-8fd9-78f703be1352",
+        "created_at": "2019-12-13T15:55:27.575Z",
+        "deviceType": "Mark Two",
+        "name": null,
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2019-12-13T15:55:27.575Z"
+      },
+      {
+        "_id": "760070f3-bd35-446f-9c0c-2855370c5059",
+        "created_at": "2019-11-07T15:20:14.655Z",
+        "deviceType": "Mark Two",
+        "name": null,
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2019-11-07T15:20:14.655Z"
+      },
+      {
+        "_id": "2656f1c8-c41e-4c2b-8d7f-4c404f4d9d1d",
+        "created_at": "2020-01-22T22:01:07.015Z",
+        "deviceType": "Mark Two",
+        "name": null,
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-01-22T22:01:07.015Z"
+      },
+      {
+        "_id": "cdc3dde5-e717-47b2-ab9b-94c27f0fd628",
+        "created_at": "2018-09-28T15:18:05.834Z",
+        "deviceType": "Sinter-1",
+        "name": "QA Pickle Rick",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-02-18T14:08:48.745Z"
+      },
+      {
+        "_id": "393099c5-adab-4456-91e2-b504b7b6eaf8",
+        "created_at": "2020-01-24T17:26:30.792Z",
+        "deviceType": "Unknown",
+        "name": null,
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-01-24T17:28:23.056Z"
+      },
+      {
+        "_id": "ddbd7c26-62e2-4385-ad06-318f2d08f138",
+        "created_at": "2017-10-31T12:34:09.939Z",
+        "deviceType": "X7",
+        "name": "QA X7 A3648",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2021-01-19T15:12:48.750Z"
+      },
+      {
+        "_id": "97eaaf38-7181-463f-8f37-c3407603db2f",
+        "created_at": "2020-01-27T16:30:00.865Z",
+        "deviceType": "Mark Two",
+        "name": null,
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-01-27T16:30:00.865Z"
+      },
+      {
+        "_id": "8680f6e9-c06a-4137-b0d0-794d321156e9",
+        "created_at": "2019-08-23T19:53:17.454Z",
+        "deviceType": "Mark Two",
+        "name": null,
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2019-08-23T19:53:17.454Z"
+      },
+      {
+        "_id": "d4742fd9-f865-4217-a763-1fe08ac23730",
+        "created_at": "2020-01-28T21:03:56.366Z",
+        "deviceType": "Mark Two",
+        "name": null,
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-01-28T21:22:29.180Z"
+      },
+      {
+        "_id": "3137bd41-3475-4ccb-b697-18c30f414e53",
+        "created_at": "2020-01-28T21:35:52.864Z",
+        "deviceType": "Metal X",
+        "name": null,
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-01-28T21:36:03.845Z"
+      },
+      {
+        "_id": "acfeecb4-9610-4a95-92d7-054619df23f6",
+        "created_at": "2020-01-28T21:42:24.557Z",
+        "deviceType": "Onyx One",
+        "name": null,
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-01-28T21:42:33.209Z"
+      },
+      {
+        "_id": "8ed45e8f-5491-409d-8cf4-352dc7fbb38a",
+        "created_at": "2019-11-08T18:35:56.046Z",
+        "deviceType": "Mark Two",
+        "name": null,
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2019-11-08T18:35:56.046Z"
+      },
+      {
+        "_id": "35311988-ec2c-496a-8a79-44fa412f2777",
+        "created_at": "2019-04-24T15:58:19.411Z",
+        "deviceType": "Mark Two",
+        "name": "DDD",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-05-20T00:57:57.467Z"
+      },
+      {
+        "_id": "c6a1329c-c635-4b55-a332-e282c1f37e0e",
+        "created_at": "2019-08-23T19:54:02.846Z",
+        "deviceType": "Mark Two",
+        "name": null,
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2019-08-23T19:54:02.846Z"
+      },
+      {
+        "_id": "e34c33b2-f166-404b-932d-758f8b8c513a",
+        "created_at": "2017-06-28T14:52:43.582Z",
+        "deviceType": "Mark Two",
+        "name": "Day man",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-02-28T16:40:59.618Z"
+      },
+      {
+        "_id": "86a136a6-4611-496c-a514-3df585eb58b8",
+        "created_at": "2019-12-25T18:59:14.255Z",
+        "deviceType": "Mark Two",
+        "name": null,
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2019-12-25T18:59:14.255Z"
+      },
+      {
+        "_id": "343d5b3c-2095-4af6-bc48-e99a4d7e6529",
+        "created_at": "2019-06-05T20:13:53.750Z",
+        "deviceType": "Mark Two",
+        "name": null,
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2019-06-05T20:13:53.750Z"
+      },
+      {
+        "_id": "d4f3bc43-d176-44ae-8728-7bb2db120f20",
+        "created_at": "2018-09-27T18:52:19.427Z",
+        "deviceType": "Sinter-1",
+        "name": "Sinter-Juan",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-02-18T14:09:15.976Z"
+      },
+      {
+        "_id": "9f2000e3-2083-4a56-a640-3cecd0ab3927",
+        "created_at": "2017-08-22T13:23:49.083Z",
+        "deviceType": "Sinter-1",
+        "name": "Orodruin",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2019-02-04T21:57:20.373Z"
+      },
+      {
+        "_id": "859c15fd-49e3-45f2-8ec8-5a1c4b256f50",
+        "created_at": "2019-11-12T21:16:16.611Z",
+        "deviceType": "Mark Two",
+        "name": null,
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2019-11-12T21:16:16.611Z"
+      },
+      {
+        "_id": "95fbee5e-ce81-489c-a8cb-b2838a161f5e",
+        "created_at": "2019-11-13T15:15:56.244Z",
+        "deviceType": "Mark Two",
+        "name": null,
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2019-11-13T15:15:56.244Z"
+      },
+      {
+        "_id": "1e83464f-f62d-4f33-837a-dc3ab035644f",
+        "created_at": "2019-08-23T19:54:24.939Z",
+        "deviceType": "Mark Two",
+        "name": null,
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2019-08-23T19:54:24.939Z"
+      },
+      {
+        "_id": "cd45adb7-085c-4f7b-a8b3-d9e44780674d",
+        "created_at": "2017-10-04T15:50:49.372Z",
+        "deviceType": "Sinter-1",
+        "name": "!Nat-A-Furnace",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-02-19T16:56:41.587Z"
+      },
+      {
+        "_id": "d0c01216-323a-4f1f-91f1-b2e104d2b909",
+        "created_at": "2018-08-17T14:28:52.198Z",
+        "deviceType": "Mark One",
+        "name": "Mark Two test",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2021-03-18T18:38:20.080Z"
+      },
+      {
+        "_id": "2567cf31-1613-4f9d-a7ca-ffbf94c48d2b",
+        "created_at": "2020-01-02T21:00:01.213Z",
+        "deviceType": "Mark Two",
+        "name": null,
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-01-02T21:00:01.213Z"
+      },
+      {
+        "_id": "72c153bd-4029-43c5-85f4-9599acbb9253",
+        "created_at": "2016-12-29T18:34:31.193Z",
+        "deviceType": "Mark Two",
+        "name": "Who\u0027s There?",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2021-03-05T18:07:20.107Z"
+      },
+      {
+        "_id": "270486a4-bad3-400c-88f1-f85610cea659",
+        "created_at": "2016-05-02T19:08:51.621Z",
+        "deviceType": "Mark Two",
+        "name": "test",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2016-06-15T20:21:24.342Z"
+      },
+      {
+        "_id": "e5184b8f-7ea9-4e4e-81ed-0fce7ec80c2f",
+        "created_at": "2019-10-08T15:17:40.992Z",
+        "deviceType": "X7",
+        "name": "X7 - Formnext 19",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2019-11-18T14:11:25.770Z"
+      },
+      {
+        "_id": "d001dcdb-3bfd-4363-ac20-14c2837b4e29",
+        "created_at": "2019-08-23T19:54:34.818Z",
+        "deviceType": "Mark Two",
+        "name": null,
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2019-08-23T19:54:34.818Z"
+      },
+      {
+        "_id": "581e40f0-ca19-48eb-94cc-0f1dc9351a1b",
+        "created_at": "2019-11-18T22:24:38.199Z",
+        "deviceType": "Mark Two",
+        "name": null,
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2019-11-18T22:24:38.199Z"
+      },
+      {
+        "_id": "4e5a138d-9635-4ff2-8463-d8e95c27824c",
+        "created_at": "2017-12-06T15:02:26.405Z",
+        "deviceType": "Metal X",
+        "name": "Metal X Demo",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-08-05T11:57:27.809Z"
+      },
+      {
+        "_id": "59663302-f0a8-46fb-8866-f4fd3ef009f7",
+        "created_at": "2017-08-18T18:22:43.137Z",
+        "deviceType": "Mark Two",
+        "name": null,
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2017-08-18T18:22:43.137Z"
+      },
+      {
+        "_id": "90d83a08-1cea-47cb-a1e6-b3f42f9b4325",
+        "created_at": "2018-01-23T20:32:47.911Z",
+        "deviceType": "Mark Two",
+        "name": "CT_MK2_2",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-05-26T21:12:45.433Z"
+      },
+      {
+        "_id": "045ed72c-0003-412e-bf50-a2f926282f9b",
+        "created_at": "2017-06-05T11:57:10.512Z",
+        "deviceType": "Mark Two",
+        "name": "Placais",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2021-03-13T18:33:05.433Z"
+      },
+      {
+        "_id": "6f052ef7-6dc8-4aaa-a4d0-991b361e075c",
+        "created_at": "2017-10-06T13:49:30.903Z",
+        "deviceType": "Metal X",
+        "name": "METAL fauX",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-03-17T23:55:31.238Z"
+      },
+      {
+        "_id": "bcff34a6-8feb-4dce-8583-8fe27d977541",
+        "created_at": "2018-04-24T14:06:21.673Z",
+        "deviceType": "X7",
+        "name": "480 Showroom X7",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-02-18T14:08:50.299Z"
+      },
+      {
+        "_id": "a7a7454b-f237-4185-bfa2-2fa3ece038a2",
+        "created_at": "2017-12-14T13:08:18.363Z",
+        "deviceType": "Mark Two",
+        "name": "DoNotUse_S_MK2_1",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2018-05-03T17:58:14.325Z"
+      },
+      {
+        "_id": "e3364f80-abf6-11e5-836e-b10f10c3a498",
+        "created_at": "2015-12-26T17:34:23.775Z",
+        "deviceType": "Mark Two",
+        "name": "Nick\u0027s",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2021-03-12T19:42:52.362Z"
+      },
+      {
+        "_id": "fe7381cf-ccd1-43ae-93d2-7a84cd08c685",
+        "created_at": "2018-09-18T11:04:22.954Z",
+        "deviceType": "Sinter-1",
+        "name": "Can of Warms",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-09-24T20:34:19.786Z"
+      },
+      {
+        "_id": "34e23b43-9367-4b95-9c08-b2f66487bd28",
+        "created_at": "2017-09-07T14:44:53.049Z",
+        "deviceType": "Metal X",
+        "name": "Sasquatch",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-02-18T14:09:22.311Z"
+      },
+      {
+        "_id": "68cb2437-8c03-4654-8069-86a998a8a303",
+        "created_at": "2017-09-04T18:53:30.203Z",
+        "deviceType": "Unknown",
+        "name": "BB",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2017-09-04T19:06:32.774Z"
+      },
+      {
+        "_id": "2c7b4d40-7c5f-4e9e-831b-da0ea0e4fbc0",
+        "created_at": "2017-09-07T15:22:48.820Z",
+        "deviceType": "Metal X",
+        "name": "Iron Giant",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-02-18T14:09:17.357Z"
+      },
+      {
+        "_id": "3b64d7fd-ca94-4054-8afb-0fa44885955b",
+        "created_at": "2016-02-17T19:36:53.685Z",
+        "deviceType": "Mark Two",
+        "name": "Pacifist",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2016-02-17T19:36:53.685Z"
+      },
+      {
+        "_id": "57a4f710-1f28-11e5-9ac4-5dd640de22b0",
+        "created_at": "2015-06-30T13:03:40.130Z",
+        "deviceType": "Mark Two",
+        "name": "Raphael",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2017-06-19T20:53:15.897Z"
+      },
+      {
+        "_id": "f2de366a-c126-4f5c-9ec6-62ddaa2ce369",
+        "created_at": "2016-11-10T18:28:41.689Z",
+        "deviceType": "Mark Two",
+        "name": "MK1 Printhead Burn-in Fixture",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2018-01-23T18:07:21.784Z"
+      },
+      {
+        "_id": "b304e97c-eabe-42fc-a475-859c64cb5fb2",
+        "created_at": "2019-11-20T21:43:26.005Z",
+        "deviceType": "Mark Two",
+        "name": null,
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2019-11-20T21:43:26.005Z"
+      },
+      {
+        "_id": "cb6877de-fb42-4ddb-b67e-14b039258f10",
+        "created_at": "2017-09-19T18:37:38.186Z",
+        "deviceType": "Mark Two",
+        "name": "FAE Mick Goodwin",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2017-12-12T17:25:27.245Z"
+      },
+      {
+        "_id": "81195a05-d52f-420e-a7aa-65956e51d6e8",
+        "created_at": "2017-09-27T21:29:21.405Z",
+        "deviceType": "Mark Two",
+        "name": null,
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2017-09-27T21:29:21.405Z"
+      },
+      {
+        "_id": "7e521ed2-00bb-4c0c-8a77-5abaadd5bf7e",
+        "created_at": "2017-09-21T11:21:41.769Z",
+        "deviceType": "Onyx One",
+        "name": "Gesundheit!",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2021-03-04T21:10:50.401Z"
+      },
+      {
+        "_id": "81cf6d6b-31d9-4250-a41e-69446c6ff348",
+        "created_at": "2017-09-16T12:08:04.461Z",
+        "deviceType": "Mark Two",
+        "name": "FAE Daniel Lazier",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-02-18T14:07:53.331Z"
+      },
+      {
+        "_id": "cc432efc-9765-4caa-b3a3-ebfdb1d56b79",
+        "created_at": "2017-10-04T14:59:45.422Z",
+        "deviceType": "Unknown",
+        "name": "CL Net Test 0",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2021-02-08T22:24:53.121Z"
+      },
+      {
+        "_id": "e5ee6ae0-83d6-4ad6-b218-c21ac5e28b0e",
+        "created_at": "2017-10-04T14:28:38.716Z",
+        "deviceType": "Sinter-1",
+        "name": "Static IP Test Group 1-4",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2018-05-02T16:47:48.082Z"
+      },
+      {
+        "_id": "a05c94d8-85ec-43cc-9b92-2f074e00cfa8",
+        "created_at": "2017-10-04T14:52:17.941Z",
+        "deviceType": "Sinter-1",
+        "name": "Too Big To Fail",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2018-03-05T18:45:30.940Z"
+      },
+      {
+        "_id": "cd01ca90-af26-4f7e-ba81-e42bd1d5045c",
+        "created_at": "2017-10-04T15:33:30.418Z",
+        "deviceType": "Mark Two",
+        "name": "Static IP Test Group 2-1",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2017-11-17T21:15:34.673Z"
+      },
+      {
+        "_id": "402a80d7-908a-4c07-9dc8-976b6045294f",
+        "created_at": "2017-10-04T14:35:12.869Z",
+        "deviceType": "Sinter-1",
+        "name": "Brave Little Toaster",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-02-18T14:07:44.676Z"
+      },
+      {
+        "_id": "b50263f2-3bd6-4082-9ac8-ebafb630264f",
+        "created_at": "2017-10-23T19:04:46.429Z",
+        "deviceType": "Mark Two",
+        "name": null,
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2017-10-23T19:04:46.429Z"
+      },
+      {
+        "_id": "87cdf4e5-fc94-444e-92d6-1030b76778b8",
+        "created_at": "2018-09-17T11:09:40.332Z",
+        "deviceType": "Mark Two",
+        "name": "480 - TechOps Printer 2",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-02-18T14:07:44.433Z"
+      },
+      {
+        "_id": "98095500-703a-11e4-90ba-65983d3d5a39",
+        "created_at": "2014-11-19T22:22:48.912Z",
+        "deviceType": "Mark Two",
+        "name": "Dangerous Dan",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-07-02T00:21:55.996Z"
+      },
+      {
+        "_id": "04faa507-e904-4183-bffc-f7302b6f2b45",
+        "created_at": "2016-11-21T17:59:15.592Z",
+        "deviceType": "Onyx One",
+        "name": "Saffron",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-02-18T14:09:17.357Z"
+      },
+      {
+        "_id": "9f926227-38aa-4bc5-9ce3-43e8a39c1ad0",
+        "created_at": "2018-02-02T18:11:36.675Z",
+        "deviceType": "Metal X",
+        "name": "Rust in Peace",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-02-18T14:09:19.201Z"
+      },
+      {
+        "_id": "c3929cd4-67f8-4aac-a13c-6e2d866e9299",
+        "created_at": "2017-11-17T17:07:47.467Z",
+        "deviceType": "Mark Two",
+        "name": null,
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2017-11-17T17:07:47.467Z"
+      },
+      {
+        "_id": "d3768c41-601f-474d-83db-399686dc31c8",
+        "created_at": "2019-11-21T19:23:06.583Z",
+        "deviceType": "Mark Two",
+        "name": null,
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2019-11-21T19:23:06.583Z"
+      },
+      {
+        "_id": "ac4cf687-906d-4595-938d-d8420465a957",
+        "created_at": "2018-05-21T13:46:46.807Z",
+        "deviceType": "X7",
+        "name": "Opportunity",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-05-30T01:11:32.151Z"
+      },
+      {
+        "_id": "0672d070-48d1-11e4-9ad5-25588258c12c",
+        "created_at": "2014-09-30T18:38:52.150Z",
+        "deviceType": "Mark One",
+        "name": "Blackjack",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2015-10-01T14:51:00.314Z"
+      },
+      {
+        "_id": "6cb017d0-1f2c-11e5-bc6b-19ffd47cf761",
+        "created_at": "2015-06-30T13:32:14.909Z",
+        "deviceType": "Mark Two",
+        "name": "Head of Silence",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-02-18T14:09:25.177Z"
+      },
+      {
+        "_id": "b7a8defa-0aa5-4d57-a56b-974cc578f29f",
+        "created_at": "2017-08-22T13:21:15.166Z",
+        "deviceType": "Sinter-1",
+        "name": "Megacaldera",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2018-03-12T15:10:56.428Z"
+      },
+      {
+        "_id": "29c9b02e-43e2-4b6c-a75f-b1dd5cfb0ec9",
+        "created_at": "2019-06-05T14:36:29.480Z",
+        "deviceType": "Mark Two",
+        "name": "Aeronaut",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-02-18T14:08:44.247Z"
+      },
+      {
+        "_id": "88af45f0-c98c-11e4-a1ff-aff228189369",
+        "created_at": "2015-03-13T14:23:54.790Z",
+        "deviceType": "Mark One",
+        "name": "Delta",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-04-09T21:50:53.516Z"
+      },
+      {
+        "_id": "73ee1a29-a445-46e2-a796-57df2124f23b",
+        "created_at": "2017-04-11T13:44:36.664Z",
+        "deviceType": "Onyx One",
+        "name": "Haephaestus",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2017-05-17T14:12:25.528Z"
+      },
+      {
+        "_id": "ae6f5e71-94a6-40e3-88e3-b141625e0659",
+        "created_at": "2020-03-02T17:46:42.498Z",
+        "deviceType": "Mark Two",
+        "name": null,
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-03-02T17:46:42.498Z"
+      },
+      {
+        "_id": "7924a7b0-15a5-11e4-8b34-f33e09bfd2b6",
+        "created_at": "2014-07-27T15:48:37.418Z",
+        "deviceType": "Mark One",
+        "name": "Beta 2",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2014-07-27T15:49:42.069Z"
+      },
+      {
+        "_id": "3283c480-1618-11e4-a0ed-a3f288ba7bc4",
+        "created_at": "2014-07-28T05:29:51.048Z",
+        "deviceType": "Mark One",
+        "name": "BlackJack",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2014-07-28T05:31:30.743Z"
+      },
+      {
+        "_id": "058e0b40-1738-11e4-967f-6d1628b9b1a3",
+        "created_at": "2014-07-29T15:50:10.676Z",
+        "deviceType": "Mark One",
+        "name": "Ratchet",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2014-07-29T15:51:08.432Z"
+      },
+      {
+        "_id": "f4532300-174c-11e4-bb44-fd097788eeab",
+        "created_at": "2014-07-29T18:20:01.200Z",
+        "deviceType": "Mark One",
+        "name": "Silver",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2014-07-29T18:21:09.340Z"
+      },
+      {
+        "_id": "5437b7e0-3fac-11e4-8593-9b849a7a80f3",
+        "created_at": "2014-09-19T03:23:30.781Z",
+        "deviceType": "Mark One",
+        "name": "Ratchet Rebornagain",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2014-12-20T18:51:41.209Z"
+      },
+      {
+        "_id": "e5310f60-aca0-11e4-9f7a-7fce4369aea6",
+        "created_at": "2015-02-04T19:06:16.790Z",
+        "deviceType": "Mark Two",
+        "name": "MIKUPRINT",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-02-18T14:08:38.111Z"
+      },
+      {
+        "_id": "7366c5c0-b068-11e4-8201-d186523ac1ee",
+        "created_at": "2015-02-09T14:32:18.716Z",
+        "deviceType": "Mark One",
+        "name": "Buzz Lightyear — Woody",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2015-03-04T17:22:37.289Z"
+      },
+      {
+        "_id": "30ca8fde-7fea-498e-b047-d6dd9da1e852",
+        "created_at": "2016-03-23T12:41:26.175Z",
+        "deviceType": "Mark Two",
+        "name": "not here",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2016-11-01T14:31:57.253Z"
+      },
+      {
+        "_id": "4a359033-1647-42f7-aae2-1d10956a3ec7",
+        "created_at": "2018-01-12T20:17:03.307Z",
+        "deviceType": "Mark Two",
+        "name": null,
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2018-01-12T20:17:03.307Z"
+      },
+      {
+        "_id": "4f3f90ac-9838-407e-b746-315e08ba73e9",
+        "created_at": "2018-01-16T15:35:25.913Z",
+        "deviceType": "X7",
+        "name": "Jungfrau",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-05-12T12:39:10.556Z"
+      },
+      {
+        "_id": "69708a73-62ca-4239-9b00-43fa7f4aef40",
+        "created_at": "2018-01-15T17:53:45.518Z",
+        "deviceType": "X7",
+        "name": "Northern Goshawk",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-10-20T20:56:40.020Z"
+      },
+      {
+        "_id": "5c079733-eae9-4c9f-842a-2fd72a81eb2d",
+        "created_at": "2018-01-17T16:14:41.024Z",
+        "deviceType": "Mark Two",
+        "name": "CT_OO_1",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-05-26T21:12:45.433Z"
+      },
+      {
+        "_id": "97a20240-4045-4ac0-99b3-a6933b2e2ee8",
+        "created_at": "2018-01-16T16:27:12.020Z",
+        "deviceType": "X7",
+        "name": "EngitypeX7",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2018-04-24T23:11:16.841Z"
+      },
+      {
+        "_id": "bb82d489-b618-41d0-9fae-272c21056b37",
+        "created_at": "2018-03-23T12:19:14.619Z",
+        "deviceType": "X7",
+        "name": "Printer...I Hardly Know Her",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-02-18T14:09:22.527Z"
+      },
+      {
+        "_id": "69218fc4-d375-4a52-8ea6-a35332802583",
+        "created_at": "2017-07-11T17:11:23.440Z",
+        "deviceType": "Onyx One",
+        "name": "The Orca",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-02-18T14:08:44.391Z"
+      },
+      {
+        "_id": "8e77ff9a-4480-40a3-9592-6baf2b6d02f1",
+        "created_at": "2018-01-23T20:14:23.284Z",
+        "deviceType": "Mark Two",
+        "name": "CT_MK2_1",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-05-26T21:12:45.433Z"
+      },
+      {
+        "_id": "e1ca852c-eadb-40d1-862a-e955cd2f1c6e",
+        "created_at": "2017-09-19T14:18:07.097Z",
+        "deviceType": "Mark Two",
+        "name": "480 - TechOps Printer 3",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-02-18T14:09:09.040Z"
+      },
+      {
+        "_id": "1b3182aa-f53b-40db-9026-6ff2403fa362",
+        "created_at": "2017-09-20T10:44:31.887Z",
+        "deviceType": "Mark Two",
+        "name": "FAE Lishan Mu\u0027s Yellow Jacket",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-02-18T14:08:44.952Z"
+      },
+      {
+        "_id": "df6dbe36-75c7-4a41-b4dc-40980eb8b300",
+        "created_at": "2018-01-25T11:57:47.054Z",
+        "deviceType": "Mark Two",
+        "name": "S_OO_2",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-02-18T14:07:28.610Z"
+      },
+      {
+        "_id": "cbb53a00-e801-4b10-937e-ec4feebbc59a",
+        "created_at": "2018-11-08T15:10:59.793Z",
+        "deviceType": "Sinter-1",
+        "name": "Dr. Bunsen Honeydew",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-10-09T21:01:17.563Z"
+      },
+      {
+        "_id": "2ba65a00-1aa0-11e5-943d-f36203219afc",
+        "created_at": "2015-06-24T18:37:21.705Z",
+        "deviceType": "Mark Two",
+        "name": "Mark Two Demo 1",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-02-18T14:07:46.742Z"
+      },
+      {
+        "_id": "ca76b430-c993-11e4-a1ff-aff228189369",
+        "created_at": "2015-03-13T15:15:55.177Z",
+        "deviceType": "Mark Two",
+        "name": "B3D",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-04-02T14:46:02.625Z"
+      },
+      {
+        "_id": "7cc07e59-b12b-4a5b-ad28-1d5f698f0eb9",
+        "created_at": "2016-05-17T11:22:19.148Z",
+        "deviceType": "Unknown",
+        "name": "Atlantis",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2016-11-29T21:54:40.479Z"
+      },
+      {
+        "_id": "198ee797-144b-4f26-bad6-a66c3e308986",
+        "created_at": "2017-09-07T15:03:51.649Z",
+        "deviceType": "Metal X",
+        "name": "Grendel",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-02-18T14:08:47.483Z"
+      },
+      {
+        "_id": "d71631d0-1f32-11e5-946c-71b8ee323cf3",
+        "created_at": "2015-06-30T14:18:13.488Z",
+        "deviceType": "Mark Two",
+        "name": "Nefertiti",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-02-18T14:08:51.079Z"
+      },
+      {
+        "_id": "ee229910-23d1-11e5-a9ac-d7277c3ce8c2",
+        "created_at": "2015-07-06T11:27:11.583Z",
+        "deviceType": "Mark Two",
+        "name": "Beta 10",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2016-05-16T15:04:58.208Z"
+      },
+      {
+        "_id": "0bef14ec-28c1-4a09-aaeb-22f5b84d16c7",
+        "created_at": "2017-12-06T16:36:35.174Z",
+        "deviceType": "Metal X",
+        "name": "Mjölnir",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-02-18T14:09:06.371Z"
+      },
+      {
+        "_id": "a2c798ed-c9c8-4310-8e74-75d7f1407605",
+        "created_at": "2017-12-06T18:28:26.564Z",
+        "deviceType": "Metal X",
+        "name": "Thangus!",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-02-18T14:08:40.317Z"
+      },
+      {
+        "_id": "676ea5a6-6656-41eb-815a-a5b5eac75968",
+        "created_at": "2018-02-02T18:18:34.158Z",
+        "deviceType": "Metal X",
+        "name": "Metal X Demo 2",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2018-05-24T18:51:36.110Z"
+      },
+      {
+        "_id": "2f168821-702a-4a24-94be-6656a51b365c",
+        "created_at": "2017-12-06T16:28:50.887Z",
+        "deviceType": "Metal X",
+        "name": "Nebuchadnezzar",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-02-18T14:08:58.389Z"
+      },
+      {
+        "_id": "f9aaa470-4ff5-4ac1-b97b-46607485373e",
+        "created_at": "2018-01-16T16:50:02.630Z",
+        "deviceType": "X7",
+        "name": "Don\u0027t Call Your X",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-02-18T14:09:17.023Z"
+      },
+      {
+        "_id": "5d0e1c4d-21ba-4db3-bd93-f7ba84d17d34",
+        "created_at": "2016-05-19T12:30:25.064Z",
+        "deviceType": "Mark Two",
+        "name": "The Grinch",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-05-26T21:12:45.433Z"
+      },
+      {
+        "_id": "e96c7397-72de-4d01-9de6-9f81410a08b6",
+        "created_at": "2018-02-01T20:08:57.610Z",
+        "deviceType": "Metal X",
+        "name": "05_Savanna",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2021-01-22T14:18:28.220Z"
+      },
+      {
+        "_id": "b8d5ce68-e8e0-42bb-836f-783f4b7f0777",
+        "created_at": "2016-12-01T16:47:37.887Z",
+        "deviceType": "Mark Two",
+        "name": "Yukon",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-02-18T14:08:43.219Z"
+      },
+      {
+        "_id": "1434981a-fca8-4b4d-a44c-add8ceaae5b9",
+        "created_at": "2018-02-02T16:55:49.849Z",
+        "deviceType": "Metal X",
+        "name": "06_Taiga",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2021-01-22T14:21:17.715Z"
+      },
+      {
+        "_id": "97b0ccd0-15d2-11e5-a9cc-e7509ece3915",
+        "created_at": "2015-06-18T15:56:41.299Z",
+        "deviceType": "Mark Two",
+        "name": "A4-BR",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2016-03-09T19:55:53.469Z"
+      },
+      {
+        "_id": "11f7c780-8a52-11e4-9c4f-6181d9f9d3ba",
+        "created_at": "2014-12-23T03:16:22.136Z",
+        "deviceType": "Mark Two",
+        "name": "Keith",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-05-26T21:12:45.433Z"
+      },
+      {
+        "_id": "1f59bd60-abea-11e5-836e-b10f10c3a498",
+        "created_at": "2015-12-26T16:02:59.875Z",
+        "deviceType": "Mark One",
+        "name": "Mark One Hudson",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2016-01-12T21:03:03.407Z"
+      },
+      {
+        "_id": "5d523c00-bea1-11e4-9ff6-2d8964793674",
+        "created_at": "2015-02-27T16:54:59.264Z",
+        "deviceType": "Mark Two",
+        "name": "Conveyor Belt",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-05-26T21:12:45.433Z"
+      },
+      {
+        "_id": "6e9cb840-48e6-11e4-a901-33e3b8218753",
+        "created_at": "2014-09-30T21:12:06.340Z",
+        "deviceType": "Mark Two",
+        "name": "Old Guy",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-07-02T00:22:29.590Z"
+      },
+      {
+        "_id": "9b762540-e84b-11e4-8865-d760e036350b",
+        "created_at": "2015-04-21T17:27:10.871Z",
+        "deviceType": "Mark One",
+        "name": "Mike",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2015-06-08T12:47:32.782Z"
+      },
+      {
+        "_id": "48833028-4cd1-4683-9586-24799f32b626",
+        "created_at": "2016-06-13T15:24:36.653Z",
+        "deviceType": "Mark Two",
+        "name": "Volundr",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-02-18T14:14:24.672Z"
+      },
+      {
+        "_id": "a67cff31-428b-4895-974c-1a1949602f30",
+        "created_at": "2016-12-06T16:00:53.941Z",
+        "deviceType": "Onyx One",
+        "name": "Steelix",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2017-01-27T14:12:02.329Z"
+      },
+      {
+        "_id": "dd1c939c-23b7-46ff-bdc1-93eeb9c9587c",
+        "created_at": "2016-10-06T14:36:51.358Z",
+        "deviceType": "Mark Two",
+        "name": "Mark Two Showcase",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2016-10-31T18:18:21.622Z"
+      },
+      {
+        "_id": "692c215a-7bbd-4d3c-bb30-ff593d8b525a",
+        "created_at": "2018-02-09T15:27:24.414Z",
+        "deviceType": "Mark Two",
+        "name": "box of chocolate",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2021-01-17T05:30:15.112Z"
+      },
+      {
+        "_id": "4690db49-6766-459b-9ac8-0fb80b445903",
+        "created_at": "2018-01-23T11:43:53.721Z",
+        "deviceType": "Mark Two",
+        "name": "CT_OO_2",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-05-26T21:12:45.433Z"
+      },
+      {
+        "_id": "5d205330-d259-11e5-bac7-e94ff5851efc",
+        "created_at": "2016-02-13T13:55:02.129Z",
+        "deviceType": "Mark Two",
+        "name": "Mark Two",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2016-10-12T19:20:15.501Z"
+      },
+      {
+        "_id": "ed0088c0-d250-11e5-bac7-e94ff5851efc",
+        "created_at": "2016-02-13T12:57:03.213Z",
+        "deviceType": "Onyx Pro",
+        "name": "QA OP A1095",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-06-19T15:28:05.764Z"
+      },
+      {
+        "_id": "4ca2efbf-5195-4fea-beea-ac0ae2bc5141",
+        "created_at": "2017-03-06T19:09:48.948Z",
+        "deviceType": "Mark Two",
+        "name": "Burn-in #1",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2017-04-05T16:46:39.746Z"
+      },
+      {
+        "_id": "02dc6b82-ae90-4613-a899-c581eba8363c",
+        "created_at": "2019-06-20T10:28:35.846Z",
+        "deviceType": "Mark Two",
+        "name": "Lamplighter",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-02-18T14:07:34.103Z"
+      },
+      {
+        "_id": "d12ebab6-7962-4e47-a4f2-773b36a40c20",
+        "created_at": "2016-12-06T17:53:07.823Z",
+        "deviceType": "Onyx One",
+        "name": "Hooked On Onyx",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2016-12-24T12:04:24.758Z"
+      },
+      {
+        "_id": "556bf654-d523-4843-8eda-e16ee93a868a",
+        "created_at": "2016-11-21T20:13:32.956Z",
+        "deviceType": "Metal Two",
+        "name": "Cleopatra",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2016-12-07T15:55:54.632Z"
+      },
+      {
+        "_id": "e4bfed6a-42cb-4fe1-9705-b94dc3d85a80",
+        "created_at": "2019-03-18T19:19:47.941Z",
+        "deviceType": "Mark Two",
+        "name": null,
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2019-03-18T19:19:47.941Z"
+      },
+      {
+        "_id": "afd13084-750b-47a1-a9f3-f11ad7aa5234",
+        "created_at": "2019-04-08T04:52:46.815Z",
+        "deviceType": "Mark Two",
+        "name": null,
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2019-04-08T04:52:46.815Z"
+      },
+      {
+        "_id": "0831a6d9-fbe2-49cc-906c-f6ca40bdd564",
+        "created_at": "2016-09-14T12:35:33.667Z",
+        "deviceType": "X7",
+        "name": "Mark X Demo Printer",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-02-18T14:07:42.059Z"
+      },
+      {
+        "_id": "c1d571ba-a148-4055-b43c-a7dc5eaee7e6",
+        "created_at": "2019-03-18T19:22:14.948Z",
+        "deviceType": "Mark Two",
+        "name": null,
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2019-03-18T19:22:14.948Z"
+      },
+      {
+        "_id": "8610c924-000f-425f-a9e7-6bdc116534ef",
+        "created_at": "2019-03-18T19:27:52.607Z",
+        "deviceType": "Mark Two",
+        "name": null,
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2019-03-18T19:27:52.607Z"
+      },
+      {
+        "_id": "97834917-83ef-4d17-b536-59e199a15758",
+        "created_at": "2016-12-12T19:06:45.218Z",
+        "deviceType": "Dev Metal X",
+        "name": "Metal X",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2017-06-10T18:18:57.414Z"
+      },
+      {
+        "_id": "c57ff7cc-0bfc-4ee7-9698-43fc65d718c3",
+        "created_at": "2016-12-06T20:12:21.176Z",
+        "deviceType": "Mark Two",
+        "name": "Steady Handrew",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2016-12-13T22:02:25.483Z"
+      },
+      {
+        "_id": "93f608b0-0c79-43c6-9a37-3b06a2b0d96a",
+        "created_at": "2017-02-28T12:36:56.043Z",
+        "deviceType": "X7",
+        "name": "Nileism",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2017-03-03T19:20:17.251Z"
+      },
+      {
+        "_id": "8303e624-3449-484b-9ef4-4868ff79e91a",
+        "created_at": "2016-12-29T13:23:39.758Z",
+        "deviceType": "Metal Two",
+        "name": "So Metal",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2016-12-29T18:36:35.474Z"
+      },
+      {
+        "_id": "6c3d4895-00e2-4d0c-a6d4-eab25e4fbf57",
+        "created_at": "2016-12-27T19:06:15.039Z",
+        "deviceType": "Metal Two",
+        "name": "Steel Yo Coins",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2016-12-29T19:08:44.623Z"
+      },
+      {
+        "_id": "151e3075-f5a5-4f5c-a97a-abc709a19f5c",
+        "created_at": "2016-12-13T13:19:24.550Z",
+        "deviceType": "X7",
+        "name": "Application Nation",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-02-18T14:09:06.955Z"
+      },
+      {
+        "_id": "13f065db-2819-4027-9558-7deba8314848",
+        "created_at": "2016-12-29T16:17:58.116Z",
+        "deviceType": "Onyx One",
+        "name": "Sombra",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-02-18T14:09:03.169Z"
+      },
+      {
+        "_id": "b6665b14-53b0-4e9b-95e0-e1372e406865",
+        "created_at": "2016-12-29T12:00:14.495Z",
+        "deviceType": "Onyx One",
+        "name": "Vulcan",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2017-05-17T14:13:32.837Z"
+      },
+      {
+        "_id": "a9206d09-55e7-45a8-98b0-5bb7bcccd32f",
+        "created_at": "2016-12-29T15:58:53.241Z",
+        "deviceType": "Onyx One",
+        "name": "Nilehilism",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2017-05-17T14:14:15.113Z"
+      },
+      {
+        "_id": "0a1fb484-66e8-4f88-a7af-089b49929ffb",
+        "created_at": "2016-06-15T14:48:05.016Z",
+        "deviceType": "Mark Two",
+        "name": "Masamune",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-05-03T21:00:45.824Z"
+      },
+      {
+        "_id": "cce46e60-a954-4331-a8fd-a00d6346b6c2",
+        "created_at": "2018-03-28T18:56:52.809Z",
+        "deviceType": "X3",
+        "name": "Old Printer",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-03-31T19:32:43.411Z"
+      },
+      {
+        "_id": "3c6342e3-46af-423c-9be9-29365279802b",
+        "created_at": "2018-06-03T21:37:47.069Z",
+        "deviceType": "Mark Two",
+        "name": null,
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2018-06-03T21:37:47.069Z"
+      },
+      {
+        "_id": "41d2ffbe-28d1-4f79-a8e8-2a5cdcf9e1e4",
+        "created_at": "2018-04-03T17:14:28.820Z",
+        "deviceType": "Sinter-1",
+        "name": "Bunsen Burner",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-02-18T14:07:33.209Z"
+      },
+      {
+        "_id": "7ab88de0-d4b2-11e4-9a82-5916ca477a90",
+        "created_at": "2015-03-27T18:54:15.802Z",
+        "deviceType": "Mark Two",
+        "name": "Supercalifragilistic",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2018-09-07T19:45:46.538Z"
+      },
+      {
+        "_id": "2201a816-0b26-4612-a25e-fa5d3e81782b",
+        "created_at": "2018-04-03T15:55:22.268Z",
+        "deviceType": "Sinter-1",
+        "name": "Easy Bake",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2018-07-11T21:08:34.014Z"
+      },
+      {
+        "_id": "94d7ea38-eab5-4faf-b1c3-6c790304deb8",
+        "created_at": "2017-09-18T14:52:28.576Z",
+        "deviceType": "Mark Two",
+        "name": "Bugatti",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2018-08-02T20:51:29.983Z"
+      },
+      {
+        "_id": "9cf2d67c-f922-4845-9c80-fbb3dd42a7b9",
+        "created_at": "2019-01-11T13:01:31.039Z",
+        "deviceType": "Metal X",
+        "name": "Mobile Suit Gundam",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-02-18T14:07:33.864Z"
+      },
+      {
+        "_id": "c18764f0-abb2-40ee-8df0-125628421762",
+        "created_at": "2018-08-17T13:50:41.382Z",
+        "deviceType": "Metal X",
+        "name": "Bruce Test",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2019-09-11T18:45:40.493Z"
+      },
+      {
+        "_id": "1af5d78b-4afb-4328-9d3b-2eb1f188f34b",
+        "created_at": "2016-12-20T16:12:13.256Z",
+        "deviceType": "Onyx One",
+        "name": "The Chosen Onyx One",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-03-21T14:41:01.611Z"
+      },
+      {
+        "_id": "4ba65ca4-205b-48d4-8e8f-578a91bc8872",
+        "created_at": "2017-12-06T15:26:41.720Z",
+        "deviceType": "Metal X",
+        "name": "Colossus",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-02-18T14:08:38.284Z"
+      },
+      {
+        "_id": "c1d372d2-2a01-4a7b-a125-1a16e2f52f7c",
+        "created_at": "2017-09-07T14:03:00.644Z",
+        "deviceType": "Metal X",
+        "name": "Iron Maiden II",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-02-18T14:08:52.711Z"
+      },
+      {
+        "_id": "e9b31aab-9e44-4de1-8883-27cfcada7a79",
+        "created_at": "2018-05-10T13:58:26.095Z",
+        "deviceType": "X7",
+        "name": "Barred Owl NRTL",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-01-15T15:21:19.581Z"
+      },
+      {
+        "_id": "532cbf8e-dff6-43c5-9572-7eb3da9938cc",
+        "created_at": "2018-10-30T19:59:14.601Z",
+        "deviceType": "Mark Two",
+        "name": null,
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2018-10-30T19:59:14.601Z"
+      },
+      {
+        "_id": "6c2ba8fa-68da-4013-9f2b-3909b1a9e1b3",
+        "created_at": "2018-06-14T20:08:30.005Z",
+        "deviceType": "Mark Two",
+        "name": null,
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2018-06-14T20:08:30.005Z"
+      },
+      {
+        "_id": "7cff94cf-1f19-48ed-aef0-b8f3768295ff",
+        "created_at": "2017-08-10T13:34:29.899Z",
+        "deviceType": "Metal X",
+        "name": "Fools Gold",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2018-05-31T23:07:29.799Z"
+      },
+      {
+        "_id": "980f85f3-6001-45dd-ac91-6344d3a4c4f9",
+        "created_at": "2018-06-18T02:19:04.518Z",
+        "deviceType": "Mark Two",
+        "name": null,
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2018-06-18T02:19:04.518Z"
+      },
+      {
+        "_id": "8b5507ba-e347-4ac5-800f-0501fe7c53f8",
+        "created_at": "2018-10-30T19:59:16.333Z",
+        "deviceType": "Mark Two",
+        "name": null,
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2018-10-30T19:59:16.333Z"
+      },
+      {
+        "_id": "3820e2c0-15a1-4ec3-a99b-c43f0d5cc269",
+        "created_at": "2018-10-30T19:59:17.203Z",
+        "deviceType": "Mark Two",
+        "name": null,
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2018-10-30T19:59:17.203Z"
+      },
+      {
+        "_id": "c083e1d5-d02f-4bd2-8882-f5fbc0e4359e",
+        "created_at": "2016-05-17T11:19:09.293Z",
+        "deviceType": "X7",
+        "name": "Dondarrion",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2019-09-03T19:50:56.967Z"
+      },
+      {
+        "_id": "83cad1cb-f95c-4210-a6a5-f9b08eb46e3d",
+        "created_at": "2018-10-30T19:59:18.089Z",
+        "deviceType": "Mark Two",
+        "name": null,
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2018-10-30T19:59:18.089Z"
+      },
+      {
+        "_id": "dffb83b0-c995-11e4-a1ff-aff228189369",
+        "created_at": "2015-03-13T15:31:03.338Z",
+        "deviceType": "Mark Two",
+        "name": "Mr. Wahlberg",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-02-18T14:07:53.805Z"
+      },
+      {
+        "_id": "f85fb2e7-011c-44e2-a869-5f9163b872e2",
+        "created_at": "2018-03-09T15:49:27.775Z",
+        "deviceType": "Mark Two",
+        "name": "Turmeric",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-05-26T21:12:45.433Z"
+      },
+      {
+        "_id": "dcdc40d8-452a-44c9-893e-178c49689de6",
+        "created_at": "2016-09-12T17:04:14.914Z",
+        "deviceType": "X7",
+        "name": "Professor X",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2021-01-19T15:13:12.213Z"
+      },
+      {
+        "_id": "cab30b4d-9ff0-4119-b4fa-7770f47a35fd",
+        "created_at": "2020-03-06T14:31:38.319Z",
+        "deviceType": "Mark Two",
+        "name": null,
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-03-06T14:31:38.319Z"
+      },
+      {
+        "_id": "d393e54f-e134-4f65-9b16-8ccac4d85ba8",
+        "created_at": "2018-02-14T15:53:30.002Z",
+        "deviceType": "X7",
+        "name": "Megazord",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-02-18T14:08:51.658Z"
+      },
+      {
+        "_id": "082b44d0-7cde-446b-8896-2ff9a856c43a",
+        "created_at": "2018-02-27T13:30:10.166Z",
+        "deviceType": "Mark Two",
+        "name": "Diplomat",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2018-03-26T21:58:15.813Z"
+      },
+      {
+        "_id": "7bbf95b9-d77e-4c7c-98dc-dc841b6bfb14",
+        "created_at": "2019-11-25T20:12:16.167Z",
+        "deviceType": "Mark Two",
+        "name": null,
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2019-11-25T20:12:16.167Z"
+      },
+      {
+        "_id": "80622b92-ffa5-449b-a058-91be71519d15",
+        "created_at": "2018-08-17T15:14:05.344Z",
+        "deviceType": "Sinter-2",
+        "name": "Mock Sinter-2",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2019-06-18T13:45:47.424Z"
+      },
+      {
+        "_id": "931b2663-1ca3-488d-a061-dd4bd559bf43",
+        "created_at": "2020-03-06T20:34:46.056Z",
+        "deviceType": "Mark Two",
+        "name": null,
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-03-06T20:34:46.056Z"
+      },
+      {
+        "_id": "f0511154-0ff2-4a1a-bfb8-396aa7ca6e80",
+        "created_at": "2018-08-18T12:15:31.952Z",
+        "deviceType": "Mark Two",
+        "name": "Provolone",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-04-10T15:01:32.448Z"
+      },
+      {
+        "_id": "bb164752-2a8b-42a6-8342-dd516e9dc9e2",
+        "created_at": "2018-09-27T18:42:08.995Z",
+        "deviceType": "Sinter-1",
+        "name": "Surtr",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-02-18T14:07:54.402Z"
+      },
+      {
+        "_id": "5dc2a88d-1e98-489e-b010-77bbfb3fb597",
+        "created_at": "2017-05-08T13:33:34.529Z",
+        "deviceType": "X7",
+        "name": "RoboCop",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-02-18T14:07:54.567Z"
+      },
+      {
+        "_id": "ed366efa-b0cb-46d2-b797-880250c533d8",
+        "created_at": "2018-09-25T17:01:45.652Z",
+        "deviceType": "Mark Two",
+        "name": null,
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2018-09-25T17:02:16.042Z"
+      },
+      {
+        "_id": "6142ec13-a7f3-4790-adcf-a520baab7f80",
+        "created_at": "2018-09-25T14:32:33.803Z",
+        "deviceType": "Mark Two",
+        "name": "Mark One Plus One",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-02-18T14:07:45.617Z"
+      },
+      {
+        "_id": "a9d8994a-7f87-46d9-9897-ad3a2576158a",
+        "created_at": "2018-12-19T19:21:35.707Z",
+        "deviceType": "Metal X",
+        "name": "Bobby Ore",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-02-18T14:07:46.308Z"
+      },
+      {
+        "_id": "88a5a55d-07c1-4068-8256-de5086d2b1b3",
+        "created_at": "2018-09-26T16:19:22.004Z",
+        "deviceType": "Onyx One",
+        "name": "Marie",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-05-26T21:12:45.433Z"
+      },
+      {
+        "_id": "e5a25e72-64d6-4142-bc7e-6319ae470d11",
+        "created_at": "2018-09-06T12:22:08.739Z",
+        "deviceType": "Metal X",
+        "name": "ping pong ding dong",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-08-04T21:33:54.231Z"
+      },
+      {
+        "_id": "2201308c-f54d-4d4e-b46a-f64ea9b3b3cd",
+        "created_at": "2018-09-26T18:27:36.881Z",
+        "deviceType": "Onyx One",
+        "name": "Barbara",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-06-01T18:43:34.440Z"
+      },
+      {
+        "_id": "ce5ddbe5-a869-41c6-bb56-10368b2d8068",
+        "created_at": "2018-08-27T13:58:04.951Z",
+        "deviceType": "Sinter-1",
+        "name": "big responsibility",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-02-18T14:08:51.567Z"
+      },
+      {
+        "_id": "396a8804-aec8-47ae-bc9f-4cfcf6d7ebe9",
+        "created_at": "2018-06-25T18:05:24.485Z",
+        "deviceType": "Mark Two",
+        "name": "UK - Jem Drew",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-02-18T14:08:43.239Z"
+      },
+      {
+        "_id": "bae0e333-7278-4ed7-8262-4a33baeb7e8f",
+        "created_at": "2018-10-08T18:23:09.499Z",
+        "deviceType": "Mark Two",
+        "name": null,
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2018-10-08T18:23:09.499Z"
+      },
+      {
+        "_id": "1967a8ad-cafc-4a10-b46c-f7e2ed237f30",
+        "created_at": "2018-06-08T16:57:31.238Z",
+        "deviceType": "X7",
+        "name": "Ada",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-07-10T17:38:29.331Z"
+      },
+      {
+        "_id": "14ef094a-f325-4f5c-8e07-37d4090c08e3",
+        "created_at": "2018-03-01T16:18:41.225Z",
+        "deviceType": "Metal X",
+        "name": "07_Tundra",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2021-01-22T14:22:59.073Z"
+      },
+      {
+        "_id": "00afd9dc-3499-4a08-88ec-3c838429e003",
+        "created_at": "2018-11-06T19:04:54.796Z",
+        "deviceType": "Mark Two",
+        "name": null,
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2018-11-06T19:04:54.796Z"
+      },
+      {
+        "_id": "16ca5808-08c2-43f1-9e56-02136681fa25",
+        "created_at": "2018-10-25T12:00:35.934Z",
+        "deviceType": "Mark Two",
+        "name": "Top Secret",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-02-24T12:59:35.565Z"
+      },
+      {
+        "_id": "a36bd5bb-f79c-453d-a92b-4a8ee26df89d",
+        "created_at": "2017-09-12T13:01:10.148Z",
+        "deviceType": "X7",
+        "name": "Protanopia",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-02-20T15:46:13.909Z"
+      },
+      {
+        "_id": "e57a61a3-72a2-4a72-82d2-365279506c7f",
+        "created_at": "2019-06-17T11:51:56.765Z",
+        "deviceType": "Mark Two",
+        "name": "ForePlease",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-04-18T18:23:57.563Z"
+      },
+      {
+        "_id": "8553149a-c5f9-4494-81e3-5e1cbb0192b8",
+        "created_at": "2019-05-14T17:59:15.923Z",
+        "deviceType": "Sinter-2",
+        "name": "Mission Accomplished",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-02-18T14:08:52.192Z"
+      },
+      {
+        "_id": "236fe4f4-0536-415a-99b5-1f1078d61c64",
+        "created_at": "2019-10-04T12:14:59.653Z",
+        "deviceType": "X7",
+        "name": "X7",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-10-12T19:42:59.012Z"
+      },
+      {
+        "_id": "40ce953c-dcdb-47a0-8b8f-9053e55f791a",
+        "created_at": "2018-12-17T16:40:08.610Z",
+        "deviceType": "Mark Two",
+        "name": "Bob Ross",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-02-18T17:14:53.439Z"
+      },
+      {
+        "_id": "2d495b16-c4eb-413c-9cef-13d088be14ac",
+        "created_at": "2018-12-21T13:30:11.853Z",
+        "deviceType": "Mark Two",
+        "name": "Hockeytown",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-02-18T14:09:22.588Z"
+      },
+      {
+        "_id": "7d00c5c0-ca11-48e8-962e-e68003aaa626",
+        "created_at": "2019-01-08T15:06:34.364Z",
+        "deviceType": "Metal X",
+        "name": "Mazinger Z",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-02-18T14:07:34.059Z"
+      },
+      {
+        "_id": "ca1bdbdf-fc32-42ad-8bd7-4ff5dc8e7ed7",
+        "created_at": "2018-01-25T15:08:57.643Z",
+        "deviceType": "X7",
+        "name": "Send It",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-02-18T14:07:52.170Z"
+      },
+      {
+        "_id": "80177bd0-2650-11e5-b1ee-db830d128416",
+        "created_at": "2015-07-09T15:38:12.520Z",
+        "deviceType": "Mark Two",
+        "name": "Carl\u0027s Thing!",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-02-18T14:08:52.361Z"
+      },
+      {
+        "_id": "b445101b-3377-45a7-b7ab-33179ada2b28",
+        "created_at": "2018-12-19T19:42:36.812Z",
+        "deviceType": "Metal X",
+        "name": "Lead Zeppelin",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-02-18T14:07:34.769Z"
+      },
+      {
+        "_id": "16c680d9-8143-4e09-acaa-f7fad5793498",
+        "created_at": "2018-08-17T15:36:03.427Z",
+        "deviceType": "Mark Two",
+        "name": "Mimikyu",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2019-01-15T22:25:01.037Z"
+      },
+      {
+        "_id": "a228bb8a-d648-4804-b79e-ad7f2418eeaa",
+        "created_at": "2018-10-10T14:40:19.221Z",
+        "deviceType": "Mark Two",
+        "name": "Skaffen-Amtiskaw",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-08-03T07:22:09.553Z"
+      },
+      {
+        "_id": "c81e871c-b2a4-4c95-8760-30739736dd79",
+        "created_at": "2019-01-17T14:34:14.656Z",
+        "deviceType": "Mark Two",
+        "name": null,
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2019-01-17T14:34:14.656Z"
+      },
+      {
+        "_id": "ccee6d3d-c97c-47d9-b89e-101294ce6d69",
+        "created_at": "2019-02-20T16:00:47.369Z",
+        "deviceType": "Mark Two",
+        "name": "Devin\u0027s BBB",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2021-03-08T14:19:04.687Z"
+      },
+      {
+        "_id": "6625d103-53bf-4d3f-a98d-df7d831b1c9f",
+        "created_at": "2019-01-25T12:26:49.296Z",
+        "deviceType": "Metal X",
+        "name": "Gigantor",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-02-18T14:07:56.978Z"
+      },
+      {
+        "_id": "c836a29d-a1f0-4523-b6bb-65b58ee5c8cf",
+        "created_at": "2018-12-19T12:38:24.798Z",
+        "deviceType": "Metal X",
+        "name": "Refurb AAA (demo return unit)",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2021-01-16T22:53:23.540Z"
+      },
+      {
+        "_id": "d9857851-7b23-45ac-a87c-5eda2e0a8e70",
+        "created_at": "2019-02-04T20:16:21.212Z",
+        "deviceType": "Mark Two",
+        "name": "The Prodigy",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-06-18T13:33:45.160Z"
+      },
+      {
+        "_id": "1aab9106-fdb4-49e4-bf25-9efc0d031e6d",
+        "created_at": "2018-04-03T16:41:21.081Z",
+        "deviceType": "Sinter-1",
+        "name": "Firenado",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-02-18T14:07:41.725Z"
+      },
+      {
+        "_id": "d9c1d0ef-760b-4ffc-819b-ee4183176e75",
+        "created_at": "2019-02-11T16:12:39.486Z",
+        "deviceType": "Mark Two",
+        "name": "FAE Nate Samson",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-02-18T14:09:03.315Z"
+      },
+      {
+        "_id": "be387a07-4260-4d44-b153-ca09318e4184",
+        "created_at": "2017-10-11T11:31:20.452Z",
+        "deviceType": "Mark Two",
+        "name": "Radagast The Brown",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-02-18T14:08:52.468Z"
+      },
+      {
+        "_id": "282feddd-fa2b-41ac-9c37-e80eaad76c1e",
+        "created_at": "2018-10-19T17:04:44.863Z",
+        "deviceType": "X7",
+        "name": "Lazer Show",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-09-02T19:52:22.158Z"
+      },
+      {
+        "_id": "66dc05e2-ec26-4f2b-8aaa-0101dbdb222c",
+        "created_at": "2017-03-17T12:24:08.629Z",
+        "deviceType": "X7",
+        "name": "Atch Who?",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2021-03-05T18:07:02.956Z"
+      },
+      {
+        "_id": "ae4d7736-aef7-4cc4-9264-efbc23b6ef57",
+        "created_at": "2018-02-02T14:54:44.436Z",
+        "deviceType": "Metal X",
+        "name": "Remington Steele",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-02-18T14:07:47.299Z"
+      },
+      {
+        "_id": "6e610f5e-4149-4341-b282-3981d7f174ad",
+        "created_at": "2019-03-18T12:00:32.031Z",
+        "deviceType": "Metal X",
+        "name": "QA Metal X 3",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-11-19T16:58:46.583Z"
+      },
+      {
+        "_id": "904762d0-2953-11e5-a906-394232f19786",
+        "created_at": "2015-07-13T11:37:44.549Z",
+        "deviceType": "Mark Two",
+        "name": "Michelangelo",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-05-26T21:12:45.433Z"
+      },
+      {
+        "_id": "41e81968-0d2e-4a1a-b086-c66d6b8753c5",
+        "created_at": "2019-01-23T16:04:06.185Z",
+        "deviceType": "Sinter-1",
+        "name": "!Sinter-1-in-a-Box",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-02-18T14:08:53.540Z"
+      },
+      {
+        "_id": "d6b5e642-9c9d-4885-9a03-9f44ecbc7816",
+        "created_at": "2016-04-27T15:58:36.278Z",
+        "deviceType": "Mark Two",
+        "name": "Mother of Dragons",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-07-24T21:34:58.506Z"
+      },
+      {
+        "_id": "c7b5cab2-5d16-457e-8fbf-4cde47b36489",
+        "created_at": "2019-03-14T13:45:13.427Z",
+        "deviceType": "X7",
+        "name": "Doodle",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-02-18T14:08:51.100Z"
+      },
+      {
+        "_id": "e743a760-d4fc-4f9d-8bee-0ed538173f5d",
+        "created_at": "2017-12-06T17:14:49.892Z",
+        "deviceType": "Metal X",
+        "name": "Notorious B.I.G.",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-02-18T14:07:47.493Z"
+      },
+      {
+        "_id": "a07481df-0b51-499e-8c52-68b6a64a6344",
+        "created_at": "2019-04-05T15:42:15.984Z",
+        "deviceType": "Onyx One",
+        "name": null,
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2019-04-05T16:28:31.055Z"
+      },
+      {
+        "_id": "84df53ce-a571-45aa-bad8-7652f612e4e2",
+        "created_at": "2019-02-14T12:58:44.632Z",
+        "deviceType": "X3",
+        "name": "QA X3 A3016",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-06-19T15:28:05.764Z"
+      },
+      {
+        "_id": "acd1e4cb-e9d2-4820-91cb-3959dc0eab2b",
+        "created_at": "2019-04-15T18:16:40.807Z",
+        "deviceType": "Metal X",
+        "name": "Iron Mangus",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-02-18T14:08:50.021Z"
+      },
+      {
+        "_id": "0bb65d6a-e00e-4be0-99ae-bf3ac1691fa5",
+        "created_at": "2017-11-20T16:16:10.943Z",
+        "deviceType": "Mark Two",
+        "name": "Senator Clay Davis",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-02-18T14:09:04.650Z"
+      },
+      {
+        "_id": "cc0a89d7-022a-4386-b6ec-46ddcaf7f39e",
+        "created_at": "2019-08-21T14:51:48.658Z",
+        "deviceType": "Mark Two",
+        "name": null,
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2019-08-21T14:51:48.658Z"
+      },
+      {
+        "_id": "04524c94-baf8-42f1-98e9-305cd8501bb2",
+        "created_at": "2018-08-17T15:28:16.377Z",
+        "deviceType": "Unknown",
+        "name": "Pressured",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2019-04-18T12:17:50.030Z"
+      },
+      {
+        "_id": "b5c574df-1e6b-4b02-afd5-37758252bd0d",
+        "created_at": "2019-08-19T13:25:52.406Z",
+        "deviceType": "Mark Two",
+        "name": null,
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2019-08-19T13:25:52.406Z"
+      },
+      {
+        "_id": "a64f2ef8-b171-40dc-bde4-08ad932c3467",
+        "created_at": "2018-02-14T13:21:35.723Z",
+        "deviceType": "Mark Two",
+        "name": "Mark Two",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-03-27T14:34:47.435Z"
+      },
+      {
+        "_id": "acb77fcb-2fe9-47b6-8350-970ec77a6fb0",
+        "created_at": "2017-10-31T11:52:29.303Z",
+        "deviceType": "X7",
+        "name": "85 Showroom X7",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-02-18T14:09:22.075Z"
+      },
+      {
+        "_id": "25312d99-a2d3-42b5-85ad-ef2094347aea",
+        "created_at": "2016-09-01T14:49:11.894Z",
+        "deviceType": "X7",
+        "name": "Wall-E",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-07-28T03:17:49.664Z"
+      },
+      {
+        "_id": "a21dc2d8-c850-478c-b47a-29218bb71f0b",
+        "created_at": "2016-11-21T13:07:44.898Z",
+        "deviceType": "Onyx One",
+        "name": "Fluffy",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2019-04-26T14:03:09.769Z"
+      },
+      {
+        "_id": "ee056461-b066-47ad-82d6-ce9aa4d4ee26",
+        "created_at": "2019-06-05T14:02:52.315Z",
+        "deviceType": "Mark Two",
+        "name": "Night Shift",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-02-18T14:07:37.968Z"
+      },
+      {
+        "_id": "eddb6c80-a3fa-11e5-be91-e9a1b0337b47",
+        "created_at": "2015-12-16T13:43:12.966Z",
+        "deviceType": "Mark Two",
+        "name": "Beyoncé",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-05-20T13:51:37.469Z"
+      },
+      {
+        "_id": "0245a7f1-c15a-4969-bc0b-bfdf8d9d138f",
+        "created_at": "2016-09-14T14:56:11.267Z",
+        "deviceType": "X7",
+        "name": "Mark X Copilot",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-02-18T14:08:38.607Z"
+      },
+      {
+        "_id": "219b62b8-898c-438c-89f6-b2d807500a01",
+        "created_at": "2019-03-18T19:51:13.440Z",
+        "deviceType": "Mark Two",
+        "name": null,
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2019-05-17T14:52:03.177Z"
+      },
+      {
+        "_id": "ebfcb057-860d-43fd-9e60-e999629178f8",
+        "created_at": "2018-09-10T13:12:31.535Z",
+        "deviceType": "Metal X",
+        "name": "Ferrous Bueller",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-02-18T14:07:41.798Z"
+      },
+      {
+        "_id": "3d6b713d-b4f9-45c7-ac40-1f30b8f5d2f5",
+        "created_at": "2017-08-09T12:26:44.115Z",
+        "deviceType": "Metal X",
+        "name": "Frankenstein",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2019-05-02T21:26:17.158Z"
+      },
+      {
+        "_id": "27fb06ba-74b6-4bba-a997-42c3673daa69",
+        "created_at": "2019-08-06T10:56:26.501Z",
+        "deviceType": "X7",
+        "name": "Midwest Roadie",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-02-18T14:07:52.264Z"
+      },
+      {
+        "_id": "822809d9-1ee8-48fc-ad0a-32bef3a0f973",
+        "created_at": "2019-03-22T15:56:34.010Z",
+        "deviceType": "Mark Two",
+        "name": "FAE Motown",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-02-18T14:08:52.192Z"
+      },
+      {
+        "_id": "50326c25-a9b4-4e75-aac7-d1ae3f939b25",
+        "created_at": "2018-08-17T14:38:21.633Z",
+        "deviceType": "Metal X",
+        "name": "2 Pressured",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-02-18T14:08:44.014Z"
+      },
+      {
+        "_id": "e40607a3-4eb7-40ad-af60-643efa571d9f",
+        "created_at": "2017-08-22T13:29:04.019Z",
+        "deviceType": "Sinter-1",
+        "name": "Guy Firery",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2019-05-06T17:06:36.588Z"
+      },
+      {
+        "_id": "5d18c77d-e6e4-4597-b83e-f0f7101e7293",
+        "created_at": "2019-04-10T19:18:46.801Z",
+        "deviceType": "Onyx One",
+        "name": null,
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-02-05T19:46:23.378Z"
+      },
+      {
+        "_id": "550aedb4-2973-4f9d-9927-1d8ef39dea8a",
+        "created_at": "2019-02-20T16:10:12.874Z",
+        "deviceType": "Sinter-2",
+        "name": "Half Baked",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2019-05-23T21:27:25.077Z"
+      },
+      {
+        "_id": "8d004c66-757d-415e-8dab-2234a64919aa",
+        "created_at": "2019-02-20T16:41:47.415Z",
+        "deviceType": "Sinter-2",
+        "name": "Backdraft",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2019-05-22T14:15:14.562Z"
+      },
+      {
+        "_id": "240d7a3a-50fb-4b97-9f25-b8a5740bdbe6",
+        "created_at": "2019-02-20T16:05:38.178Z",
+        "deviceType": "Sinter-2",
+        "name": "Grillmaster",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-02-18T14:07:42.934Z"
+      },
+      {
+        "_id": "255a5c7c-b03f-4745-bf9d-2e3a205dfe83",
+        "created_at": "2020-02-05T19:53:59.559Z",
+        "deviceType": "Onyx One",
+        "name": null,
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-02-05T20:01:07.237Z"
+      },
+      {
+        "_id": "9db00954-04a6-48a4-87ee-9a5fb14c8d3a",
+        "created_at": "2019-05-07T15:38:15.660Z",
+        "deviceType": "Metal X",
+        "name": "Ms Sma",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-08-06T18:12:12.668Z"
+      },
+      {
+        "_id": "7124675e-3d2c-42d4-9c50-b080013cddd1",
+        "created_at": "2017-10-12T16:44:41.040Z",
+        "deviceType": "X7",
+        "name": "X7",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2019-08-26T15:33:43.830Z"
+      },
+      {
+        "_id": "5c1d1c14-2f1f-4142-8efb-f20e776a3454",
+        "created_at": "2017-08-22T13:26:23.462Z",
+        "deviceType": "Sinter-1",
+        "name": "Hindenburg",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2019-05-17T14:51:04.145Z"
+      },
+      {
+        "_id": "bea35d9d-5588-43e0-adf2-b1d9d5754150",
+        "created_at": "2019-05-07T15:05:31.837Z",
+        "deviceType": "Metal X",
+        "name": "QA Metal X 1",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-10-16T15:48:03.878Z"
+      },
+      {
+        "_id": "ba4a2786-3735-4505-b759-03f731ce166d",
+        "created_at": "2018-02-09T14:48:09.466Z",
+        "deviceType": "Mark Two",
+        "name": "Chien-Shiung",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-06-01T18:43:34.440Z"
+      },
+      {
+        "_id": "2c4161f6-ff5c-42f1-afe0-5ae7d365e440",
+        "created_at": "2019-05-08T19:05:41.215Z",
+        "deviceType": "Mark Two",
+        "name": null,
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2019-05-08T19:05:41.215Z"
+      },
+      {
+        "_id": "aa025fe9-b2b9-4653-8aa9-f6febc08b12e",
+        "created_at": "2019-04-09T14:34:32.892Z",
+        "deviceType": "Metal X",
+        "name": "Tony",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-02-18T14:08:41.726Z"
+      },
+      {
+        "_id": "b2e93bd5-51c3-4139-863f-5b9f1581bdd2",
+        "created_at": "2017-12-11T15:04:48.814Z",
+        "deviceType": "Onyx One",
+        "name": "Gertrude",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-05-26T21:12:45.433Z"
+      },
+      {
+        "_id": "4563ec17-2e7b-47ba-88bc-1c2d2a6fd795",
+        "created_at": "2017-10-04T15:01:24.640Z",
+        "deviceType": "Sinter-1",
+        "name": "Viking Funeral",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2019-05-08T12:33:42.088Z"
+      },
+      {
+        "_id": "ae932565-8bc5-428a-af48-5d1de9dcd25a",
+        "created_at": "2019-04-11T17:51:51.130Z",
+        "deviceType": "Mark Two",
+        "name": "Indigo Bunting",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-06-01T18:43:34.440Z"
+      },
+      {
+        "_id": "3d2b7ae8-ff74-413a-8504-5619d4ac93ef",
+        "created_at": "2019-04-24T19:03:18.649Z",
+        "deviceType": "Mark Two",
+        "name": "Tufted Titmouse",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-05-26T21:12:45.433Z"
+      },
+      {
+        "_id": "a7d15bca-c196-4000-be1c-3052389a142f",
+        "created_at": "2018-12-19T12:12:45.553Z",
+        "deviceType": "Metal X",
+        "name": "Metallica",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-02-18T14:08:51.084Z"
+      },
+      {
+        "_id": "43cf2d92-8c11-4f9d-8329-a2057b333f95",
+        "created_at": "2019-03-18T12:29:00.202Z",
+        "deviceType": "Metal X",
+        "name": "04_Rainforest",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2021-01-22T14:16:54.715Z"
+      },
+      {
+        "_id": "c70224d0-0ec9-11e5-906d-edada2dcc3d1",
+        "created_at": "2015-06-09T17:11:58.595Z",
+        "deviceType": "Mark Two",
+        "name": "Chalupa",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2021-02-10T18:07:18.873Z"
+      },
+      {
+        "_id": "f45b8310-6c5a-42ad-b500-9116bb40276b",
+        "created_at": "2017-09-16T13:41:49.519Z",
+        "deviceType": "Mark Two",
+        "name": "Bud Nelson",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-02-18T14:09:09.805Z"
+      },
+      {
+        "_id": "b28b33ab-43b2-4d12-a8cb-72ba50c43a4a",
+        "created_at": "2019-03-20T14:34:43.362Z",
+        "deviceType": "Metal X",
+        "name": "03_Grassland",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2021-01-22T14:15:43.989Z"
+      },
+      {
+        "_id": "5f0de1b0-9e6c-11e5-89e3-99a1d5123281",
+        "created_at": "2015-12-09T12:00:21.640Z",
+        "deviceType": "Mark Two",
+        "name": "Leoncico",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-02-18T14:08:50.568Z"
+      },
+      {
+        "_id": "8fb6943f-36f0-4cdf-9a77-17dfc56fb5f4",
+        "created_at": "2018-01-24T11:29:26.076Z",
+        "deviceType": "Onyx One",
+        "name": "Rajaa",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-06-01T18:43:34.440Z"
+      },
+      {
+        "_id": "5c41bf83-d9db-49be-aa8a-42eca2d6551d",
+        "created_at": "2017-10-04T15:37:43.275Z",
+        "deviceType": "Unknown",
+        "name": "Static IP Control 3",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-04-22T17:21:23.586Z"
+      },
+      {
+        "_id": "dca28031-420a-45b1-b403-980e82f943f1",
+        "created_at": "2019-01-23T16:34:08.370Z",
+        "deviceType": "Sinter-2",
+        "name": "Hot Diggity Dog",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-02-26T15:52:44.731Z"
+      },
+      {
+        "_id": "e8f17ad9-ff7a-478e-9f0b-04dca49096ab",
+        "created_at": "2019-05-09T14:31:03.486Z",
+        "deviceType": "Mark Two",
+        "name": "R2GEN2",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-02-18T14:09:17.033Z"
+      },
+      {
+        "_id": "3b6159f1-4998-41be-b150-6273fbcbced6",
+        "created_at": "2019-06-15T11:04:54.231Z",
+        "deviceType": "Mark Two",
+        "name": "Trillium",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-02-18T14:07:26.321Z"
+      },
+      {
+        "_id": "6b7c56a3-fc5f-42ba-a82c-93bbfb01001f",
+        "created_at": "2019-06-17T17:09:24.084Z",
+        "deviceType": "Mark Two",
+        "name": "Cheeky Monkey",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-02-18T14:07:31.695Z"
+      },
+      {
+        "_id": "3f761eb8-35fe-4281-a7e0-1a9a2b7a3a88",
+        "created_at": "2018-01-23T13:22:54.917Z",
+        "deviceType": "X7",
+        "name": "Axlotl Tank",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-11-13T23:23:45.918Z"
+      },
+      {
+        "_id": "cd3301c1-946a-4fff-9948-0046e43ac3b6",
+        "created_at": "2020-02-07T00:05:59.492Z",
+        "deviceType": "Mark Two",
+        "name": null,
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-02-07T00:05:59.492Z"
+      },
+      {
+        "_id": "d7261bf0-c8ae-42ce-9947-1b09bec30ac7",
+        "created_at": "2018-01-15T18:01:53.184Z",
+        "deviceType": "Unknown",
+        "name": "TRC-BBB-1-48",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-05-27T17:37:53.801Z"
+      },
+      {
+        "_id": "8921a33f-0928-4409-8e18-670ed8773ba8",
+        "created_at": "2019-05-03T11:57:59.042Z",
+        "deviceType": "Mark Two",
+        "name": "Oh, Hi Mark",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2021-01-22T15:59:25.524Z"
+      },
+      {
+        "_id": "e242511e-dd22-4e45-8e27-c6da0b2e7ba6",
+        "created_at": "2017-10-31T12:31:44.269Z",
+        "deviceType": "X7",
+        "name": "Terminator",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-02-18T14:08:52.640Z"
+      },
+      {
+        "_id": "28257fb7-0d00-4448-854b-e5e90c3c84b1",
+        "created_at": "2019-06-08T15:38:02.783Z",
+        "deviceType": "X7",
+        "name": "Teapot",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-10-08T16:41:27.165Z"
+      },
+      {
+        "_id": "a8ab88ef-6ec9-4c42-98fa-baab3854173a",
+        "created_at": "2016-04-26T12:47:26.439Z",
+        "deviceType": "Mark Two",
+        "name": "Mark Two: Tokyo Drift",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-02-18T14:07:36.401Z"
+      },
+      {
+        "_id": "75d632b6-84fa-457f-a4e3-c367be68bf4b",
+        "created_at": "2019-04-26T11:55:52.526Z",
+        "deviceType": "Sinter-2",
+        "name": "Dante",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-02-18T14:09:03.820Z"
+      },
+      {
+        "_id": "78b72df2-db5c-48d7-b624-aeaf266985f0",
+        "created_at": "2019-08-06T15:45:04.432Z",
+        "deviceType": "X7",
+        "name": "Rizzo",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-05-19T13:36:15.024Z"
+      },
+      {
+        "_id": "09639c10-0ec4-11e5-906d-edada2dcc3d1",
+        "created_at": "2015-06-09T16:25:03.666Z",
+        "deviceType": "Mark Two",
+        "name": "Charles",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-02-18T14:08:44.087Z"
+      },
+      {
+        "_id": "e0e9b4b2-73ab-4657-85df-b1ec0031744b",
+        "created_at": "2019-10-02T11:25:58.775Z",
+        "deviceType": "Mark Two",
+        "name": "Electric Boogaloo 1",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2021-02-26T15:13:51.534Z"
+      },
+      {
+        "_id": "ce92e57b-d0ee-4c3e-b907-78ee6c388489",
+        "created_at": "2018-08-09T18:01:28.577Z",
+        "deviceType": "Metal X",
+        "name": "NRTL the Turtle",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-10-29T14:24:23.954Z"
+      },
+      {
+        "_id": "6234452c-d7d9-4a63-b594-9f118dd99541",
+        "created_at": "2019-04-22T12:07:16.930Z",
+        "deviceType": "X7",
+        "name": "Broad-winged Hawk UL",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-02-18T14:07:33.768Z"
+      },
+      {
+        "_id": "fe0cf10d-05c2-4f4c-b069-ab5a3b47fd57",
+        "created_at": "2019-09-11T11:16:10.367Z",
+        "deviceType": "X7",
+        "name": "MorkFroged Pronter",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-02-18T14:08:45.537Z"
+      },
+      {
+        "_id": "e5524d65-9e8b-4881-b0cd-2d3c3081bc0c",
+        "created_at": "2018-12-21T15:58:05.306Z",
+        "deviceType": "Sinter-1",
+        "name": "MiniMe",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2019-10-08T18:31:17.336Z"
+      },
+      {
+        "_id": "b2a50196-0b37-4275-83b6-3326f3c5860e",
+        "created_at": "2019-03-20T15:37:18.718Z",
+        "deviceType": "Metal X",
+        "name": "Edward Printerhands",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-02-18T14:08:51.525Z"
+      },
+      {
+        "_id": "90bf5458-3e1a-42d8-a756-a65099d9fb69",
+        "created_at": "2017-08-10T14:29:36.488Z",
+        "deviceType": "Metal X",
+        "name": "Goliath II",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-02-18T14:07:25.690Z"
+      },
+      {
+        "_id": "e53bbd0b-7ef8-4e95-8f92-c3ae299374f0",
+        "created_at": "2018-05-23T17:10:27.089Z",
+        "deviceType": "Mark Two",
+        "name": "480 Showroom Mark Two",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-02-18T14:07:27.517Z"
+      },
+      {
+        "_id": "1d55aec0-c987-11e4-a1ff-aff228189369",
+        "created_at": "2015-03-13T13:45:07.043Z",
+        "deviceType": "Mark Two",
+        "name": "November",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-05-26T21:12:45.433Z"
+      },
+      {
+        "_id": "47bc2019-e0cd-4e7c-baf6-ca34c64154aa",
+        "created_at": "2018-05-01T11:10:18.973Z",
+        "deviceType": "Mark Two",
+        "name": "480 - TechOps Printer",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-02-18T14:07:29.628Z"
+      },
+      {
+        "_id": "6a684781-aa17-454f-86ab-2b8b696b8f56",
+        "created_at": "2016-11-18T14:46:32.451Z",
+        "deviceType": "Onyx One",
+        "name": "Laika",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-02-18T14:07:28.258Z"
+      },
+      {
+        "_id": "1490ce0b-9387-43cc-bbcb-4360259a44e2",
+        "created_at": "2018-03-19T13:07:27.290Z",
+        "deviceType": "Metal X",
+        "name": "Metal X Prototype",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-02-18T14:07:45.683Z"
+      },
+      {
+        "_id": "89b67cda-61be-4190-9412-b0871202b302",
+        "created_at": "2019-04-09T13:48:18.735Z",
+        "deviceType": "Metal X",
+        "name": "02_Desert",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2021-01-22T14:13:19.347Z"
+      },
+      {
+        "_id": "12b2015a-e8f7-4cc6-a70a-53f1c8131c4c",
+        "created_at": "2016-12-23T13:02:34.323Z",
+        "deviceType": "Mark Two",
+        "name": "Atlantic",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-02-18T14:07:46.535Z"
+      },
+      {
+        "_id": "da78b66b-8529-4207-a92e-31739c4208e6",
+        "created_at": "2017-12-06T15:38:21.437Z",
+        "deviceType": "Metal X",
+        "name": "Toph",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-02-18T14:07:45.842Z"
+      },
+      {
+        "_id": "8b0cc488-cf57-4d97-982e-2c86bb21b683",
+        "created_at": "2019-03-22T12:45:51.510Z",
+        "deviceType": "X7",
+        "name": "Great Horned Owl",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-12-14T16:23:45.244Z"
+      },
+      {
+        "_id": "58b01812-ae42-49a6-a6c0-894749f4e9ef",
+        "created_at": "2019-04-09T13:56:13.538Z",
+        "deviceType": "Metal X",
+        "name": "Silver Surfer",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-02-18T14:07:34.357Z"
+      },
+      {
+        "_id": "61058323-6014-413d-b767-dc967260b1d6",
+        "created_at": "2018-11-15T17:53:43.419Z",
+        "deviceType": "Sinter-1",
+        "name": "You\u0027re Fired",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-02-18T14:07:45.953Z"
+      },
+      {
+        "_id": "cf21e0d0-de41-496f-86d1-0cab59953c05",
+        "created_at": "2017-12-06T17:26:09.432Z",
+        "deviceType": "Metal X",
+        "name": "BIG SHAQ",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-02-18T14:08:18.674Z"
+      },
+      {
+        "_id": "190cc70c-a56a-47ed-af06-41dc5a29db5c",
+        "created_at": "2017-05-08T16:39:35.542Z",
+        "deviceType": "Metal X",
+        "name": "Mastodon",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-02-18T14:08:43.477Z"
+      },
+      {
+        "_id": "cf050834-dca3-4828-96d1-00ddffd1f7fb",
+        "created_at": "2018-03-19T15:43:45.466Z",
+        "deviceType": "Mark Two",
+        "name": "Like A Nissan",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-02-18T14:07:33.832Z"
+      },
+      {
+        "_id": "8ec99aea-3ced-4d57-9ab2-feb43e77ed31",
+        "created_at": "2017-03-09T17:51:18.376Z",
+        "deviceType": "X7",
+        "name": "Yankee",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-02-18T14:07:46.372Z"
+      },
+      {
+        "_id": "a7b64d0c-43e1-4a28-bef9-3698dc82654c",
+        "created_at": "2018-02-02T13:00:55.629Z",
+        "deviceType": "Metal X",
+        "name": "Radium Against The Machine",
+        "queueEstimatedTime": 0,
+        "queueLength": 0,
+        "updated_at": "2020-02-18T14:08:53.002Z"
+      }
+    ]
+  },
+  "params": {},
+  "propConfig": {
+    "custom.devices": {
+      "binding": {
+        "config": {
+          "connectTimeout": 2000,
+          "enableCookies": false,
+          "polling": {
+            "enabled": true,
+            "rate": "5"
+          },
+          "request": {
+            "auth": {
+              "type": "Basic",
+              "value": "runScript(\"eiger_api_utils.get_auth\", 0, \"/home/vagrant/eiger_api.key\")"
+            },
+            "method": "GET",
+            "url": "\"https://www.eiger.io/api/v2/devices/\""
+          },
+          "socketTimeout": 2000
+        },
+        "type": "http"
+      },
+      "persistent": true
+    }
+  },
+  "props": {},
+  "root": {
+    "children": [
+      {
+        "meta": {
+          "name": "active_devices_title"
+        },
+        "position": {
+          "basis": "32px"
+        },
+        "props": {
+          "style": {
+            "classes": "Font_Header3",
+            "fontWeight": "bold",
+            "textAlign": "center"
+          },
+          "text": "Active Devices"
+        },
+        "type": "ia.display.label"
+      },
+      {
+        "meta": {
+          "name": "spacer_3"
+        },
+        "position": {
+          "basis": "15px"
+        },
+        "type": "ia.display.label"
+      },
+      {
+        "children": [
+          {
+            "meta": {
+              "name": "table"
+            },
+            "position": {
+              "basis": "770px",
+              "grow": 1
+            },
+            "propConfig": {
+              "props.data": {
+                "binding": {
+                  "config": {
+                    "queryPath": "select_active_printers",
+                    "returnFormat": "json"
+                  },
+                  "type": "query"
+                }
+              }
+            },
+            "props": {
+              "columns": [
+                {
+                  "align": "center",
+                  "boolean": "checkbox",
+                  "dateFormat": "MM/DD/YYYY",
+                  "editable": false,
+                  "field": "name",
+                  "footer": {
+                    "align": "center",
+                    "justify": "left",
+                    "style": {
+                      "classes": ""
+                    },
+                    "title": ""
+                  },
+                  "header": {
+                    "align": "center",
+                    "justify": "left",
+                    "style": {
+                      "classes": ""
+                    },
+                    "title": "Name"
+                  },
+                  "justify": "auto",
+                  "number": "value",
+                  "numberFormat": "0,0.##",
+                  "progressBar": {
+                    "bar": {
+                      "color": "",
+                      "style": {
+                        "classes": ""
+                      }
+                    },
+                    "max": 100,
+                    "min": 0,
+                    "track": {
+                      "color": "",
+                      "style": {
+                        "classes": ""
+                      }
+                    },
+                    "value": {
+                      "enabled": true,
+                      "format": "0,0.##",
+                      "justify": "center",
+                      "style": {
+                        "classes": ""
+                      }
+                    }
+                  },
+                  "render": "auto",
+                  "resizable": true,
+                  "sort": "none",
+                  "sortable": true,
+                  "strictWidth": false,
+                  "style": {
+                    "classes": ""
+                  },
+                  "toggleSwitch": {
+                    "color": {
+                      "selected": "",
+                      "unselected": ""
+                    }
+                  },
+                  "viewParams": {},
+                  "viewPath": "",
+                  "visible": true,
+                  "width": ""
+                },
+                {
+                  "align": "center",
+                  "boolean": "checkbox",
+                  "dateFormat": "MM/DD/YYYY",
+                  "editable": false,
+                  "field": "_id",
+                  "footer": {
+                    "align": "center",
+                    "justify": "left",
+                    "style": {
+                      "classes": ""
+                    },
+                    "title": ""
+                  },
+                  "header": {
+                    "align": "center",
+                    "justify": "left",
+                    "style": {
+                      "classes": ""
+                    },
+                    "title": "Printer ID"
+                  },
+                  "justify": "auto",
+                  "number": "value",
+                  "numberFormat": "0,0.##",
+                  "progressBar": {
+                    "bar": {
+                      "color": "",
+                      "style": {
+                        "classes": ""
+                      }
+                    },
+                    "max": 100,
+                    "min": 0,
+                    "track": {
+                      "color": "",
+                      "style": {
+                        "classes": ""
+                      }
+                    },
+                    "value": {
+                      "enabled": true,
+                      "format": "0,0.##",
+                      "justify": "center",
+                      "style": {
+                        "classes": ""
+                      }
+                    }
+                  },
+                  "render": "auto",
+                  "resizable": true,
+                  "sort": "none",
+                  "sortable": true,
+                  "strictWidth": false,
+                  "style": {
+                    "classes": ""
+                  },
+                  "toggleSwitch": {
+                    "color": {
+                      "selected": "",
+                      "unselected": ""
+                    }
+                  },
+                  "viewParams": {},
+                  "viewPath": "",
+                  "visible": true,
+                  "width": ""
+                }
+              ],
+              "filter": {
+                "results": {
+                  "enabled": true
+                }
+              },
+              "pager": {
+                "initialOption": 5
+              },
+              "style": {
+                "classes": "Font_Text"
+              }
+            },
+            "scripts": {
+              "customMethods": [],
+              "extensionFunctions": null,
+              "messageHandlers": [
+                {
+                  "messageType": "update-tables",
+                  "pageScope": true,
+                  "script": "\tself.refreshBinding(\"props.data\")",
+                  "sessionScope": false,
+                  "viewScope": false
+                }
+              ]
+            },
+            "type": "ia.display.table"
+          },
+          {
+            "children": [
+              {
+                "events": {
+                  "dom": {
+                    "onClick": {
+                      "config": {
+                        "script": "\tselection \u003d self.parent.parent.getChild(\"table\").props.selection.data[0]\n\tdata \u003d {\n\t\t\"id\": selection.id,\n\t\t\"name\": selection.name,\n\t}\n\t\n\tsystem.db.runNamedQuery(\"remove_device\", data)\n\tsystem.perspective.sendMessage(\"update-tables\")"
+                      },
+                      "scope": "G",
+                      "type": "script"
+                    }
+                  }
+                },
+                "meta": {
+                  "name": "add"
+                },
+                "position": {
+                  "basis": "50px"
+                },
+                "props": {
+                  "path": "material/delete",
+                  "style": {
+                    "classes": "Clickable"
+                  }
+                },
+                "type": "ia.display.icon"
+              }
+            ],
+            "meta": {
+              "name": "actions"
+            },
+            "position": {
+              "basis": "50px",
+              "shrink": 0
+            },
+            "props": {
+              "direction": "column"
+            },
+            "type": "ia.container.flex"
+          }
+        ],
+        "meta": {
+          "name": "active_devices"
+        },
+        "position": {
+          "basis": "200px",
+          "grow": 1
+        },
+        "type": "ia.container.flex"
+      },
+      {
+        "meta": {
+          "name": "spacer"
+        },
+        "position": {
+          "basis": "32px",
+          "grow": 1
+        },
+        "type": "ia.display.label"
+      },
+      {
+        "meta": {
+          "name": "all_devices_title"
+        },
+        "position": {
+          "basis": "32px"
+        },
+        "props": {
+          "style": {
+            "classes": "Font_Header3",
+            "fontWeight": "bold",
+            "textAlign": "center"
+          },
+          "text": "All Devices"
+        },
+        "type": "ia.display.label"
+      },
+      {
+        "meta": {
+          "name": "spacer_0"
+        },
+        "position": {
+          "basis": "15px"
+        },
+        "type": "ia.display.label"
+      },
+      {
+        "children": [
+          {
+            "meta": {
+              "name": "show"
+            },
+            "position": {
+              "basis": "50px"
+            },
+            "props": {
+              "style": {
+                "classes": "Font_Text",
+                "fontWeight": "bold",
+                "textAlign": "center"
+              },
+              "text": "Show:"
+            },
+            "type": "ia.display.label"
+          },
+          {
+            "meta": {
+              "name": "spacer"
+            },
+            "position": {
+              "basis": "5px",
+              "shrink": 0
+            },
+            "type": "ia.display.label"
+          },
+          {
+            "events": {
+              "component": {
+                "onActionPerformed": {
+                  "config": {
+                    "script": "\tsystem.perspective.sendMessage(\"update-tables\")"
+                  },
+                  "scope": "G",
+                  "type": "script"
+                }
+              }
+            },
+            "meta": {
+              "name": "filter"
+            },
+            "position": {
+              "basis": "526px"
+            },
+            "propConfig": {
+              "props.options": {
+                "binding": {
+                  "config": {
+                    "path": "view.custom.devices"
+                  },
+                  "transforms": [
+                    {
+                      "code": "\ttypes \u003d set([item.deviceType for item in value])\n\ttypes \u003d [{\u0027value\u0027: type, \u0027label\u0027: type} for type in types]\n\ttypes.sort()\n\t\n\treturn types",
+                      "type": "script"
+                    }
+                  ],
+                  "type": "property"
+                }
+              }
+            },
+            "props": {
+              "multiSelect": true,
+              "style": {
+                "classes": "Font_Text",
+                "fontWeight": "bold"
+              },
+              "value": [
+                "X7"
+              ]
+            },
+            "type": "ia.input.dropdown"
+          }
+        ],
+        "meta": {
+          "name": "device_filter"
+        },
+        "position": {
+          "basis": "32px"
+        },
+        "props": {
+          "justify": "center"
+        },
+        "type": "ia.container.flex"
+      },
+      {
+        "meta": {
+          "name": "spacer_1"
+        },
+        "position": {
+          "basis": "15px",
+          "shrink": 0
+        },
+        "type": "ia.display.label"
+      },
+      {
+        "children": [
+          {
+            "meta": {
+              "name": "table"
+            },
+            "position": {
+              "basis": "770px",
+              "grow": 1
+            },
+            "propConfig": {
+              "props.data": {
+                "binding": {
+                  "config": {
+                    "path": "view.custom.devices"
+                  },
+                  "transforms": [
+                    {
+                      "code": "\tactive_printers \u003d [device[0] for device in system.dataset.toPyDataSet(system.db.runNamedQuery(\"select_active_printers\"))]\n\t\n\treturn [device for device in value if device.deviceType in self.parent.parent.getChild(\"device_filter\").getChild(\"filter\").props.value and device._id not in active_printers]",
+                      "type": "script"
+                    }
+                  ],
+                  "type": "property"
+                }
+              },
+              "props.filter.text": {
+                "persistent": false
+              }
+            },
+            "props": {
+              "columns": [
+                {
+                  "align": "center",
+                  "boolean": "checkbox",
+                  "dateFormat": "MM/DD/YYYY",
+                  "editable": false,
+                  "field": "name",
+                  "footer": {
+                    "align": "center",
+                    "justify": "left",
+                    "style": {
+                      "classes": ""
+                    },
+                    "title": ""
+                  },
+                  "header": {
+                    "align": "center",
+                    "justify": "left",
+                    "style": {
+                      "classes": ""
+                    },
+                    "title": "Name"
+                  },
+                  "justify": "auto",
+                  "number": "value",
+                  "numberFormat": "0,0.##",
+                  "progressBar": {
+                    "bar": {
+                      "color": "",
+                      "style": {
+                        "classes": ""
+                      }
+                    },
+                    "max": 100,
+                    "min": 0,
+                    "track": {
+                      "color": "",
+                      "style": {
+                        "classes": ""
+                      }
+                    },
+                    "value": {
+                      "enabled": true,
+                      "format": "0,0.##",
+                      "justify": "center",
+                      "style": {
+                        "classes": ""
+                      }
+                    }
+                  },
+                  "render": "auto",
+                  "resizable": true,
+                  "sort": "none",
+                  "sortable": true,
+                  "strictWidth": false,
+                  "style": {
+                    "classes": ""
+                  },
+                  "toggleSwitch": {
+                    "color": {
+                      "selected": "",
+                      "unselected": ""
+                    }
+                  },
+                  "viewParams": {},
+                  "viewPath": "",
+                  "visible": true,
+                  "width": ""
+                },
+                {
+                  "align": "center",
+                  "boolean": "checkbox",
+                  "dateFormat": "MM/DD/YYYY",
+                  "editable": false,
+                  "field": "_id",
+                  "footer": {
+                    "align": "center",
+                    "justify": "left",
+                    "style": {
+                      "classes": ""
+                    },
+                    "title": ""
+                  },
+                  "header": {
+                    "align": "center",
+                    "justify": "left",
+                    "style": {
+                      "classes": ""
+                    },
+                    "title": "Printer ID"
+                  },
+                  "justify": "auto",
+                  "number": "value",
+                  "numberFormat": "0,0.##",
+                  "progressBar": {
+                    "bar": {
+                      "color": "",
+                      "style": {
+                        "classes": ""
+                      }
+                    },
+                    "max": 100,
+                    "min": 0,
+                    "track": {
+                      "color": "",
+                      "style": {
+                        "classes": ""
+                      }
+                    },
+                    "value": {
+                      "enabled": true,
+                      "format": "0,0.##",
+                      "justify": "center",
+                      "style": {
+                        "classes": ""
+                      }
+                    }
+                  },
+                  "render": "auto",
+                  "resizable": true,
+                  "sort": "none",
+                  "sortable": true,
+                  "strictWidth": false,
+                  "style": {
+                    "classes": ""
+                  },
+                  "toggleSwitch": {
+                    "color": {
+                      "selected": "",
+                      "unselected": ""
+                    }
+                  },
+                  "viewParams": {},
+                  "viewPath": "",
+                  "visible": true,
+                  "width": ""
+                }
+              ],
+              "filter": {
+                "enabled": true,
+                "results": {
+                  "enabled": true
+                }
+              },
+              "pager": {
+                "initialOption": 10
+              },
+              "style": {
+                "classes": "Font_Text"
+              }
+            },
+            "scripts": {
+              "customMethods": [],
+              "extensionFunctions": null,
+              "messageHandlers": [
+                {
+                  "messageType": "update-tables",
+                  "pageScope": true,
+                  "script": "\tself.refreshBinding(\"props.data\")",
+                  "sessionScope": false,
+                  "viewScope": false
+                }
+              ]
+            },
+            "type": "ia.display.table"
+          },
+          {
+            "children": [
+              {
+                "events": {
+                  "dom": {
+                    "onClick": {
+                      "config": {
+                        "script": "\tselection \u003d self.parent.parent.getChild(\"table\").props.selection.data[0]\n\tdata \u003d {\n\t\t\"id\": selection._id,\n\t\t\"name\": selection.name,\n\t}\n\t\n\tsystem.db.runNamedQuery(\"insert_device\", data)\n\tsystem.perspective.sendMessage(\"update-tables\")"
+                      },
+                      "scope": "G",
+                      "type": "script"
+                    }
+                  }
+                },
+                "meta": {
+                  "name": "add"
+                },
+                "position": {
+                  "basis": "50px"
+                },
+                "props": {
+                  "path": "material/add_box",
+                  "style": {
+                    "classes": "Clickable"
+                  }
+                },
+                "type": "ia.display.icon"
+              }
+            ],
+            "meta": {
+              "name": "actions"
+            },
+            "position": {
+              "basis": "50px",
+              "shrink": 0
+            },
+            "props": {
+              "direction": "column"
+            },
+            "type": "ia.container.flex"
+          }
+        ],
+        "meta": {
+          "name": "all_devices"
+        },
+        "position": {
+          "basis": "400px",
+          "grow": 1
+        },
+        "type": "ia.container.flex"
+      }
+    ],
+    "meta": {
+      "name": "root"
+    },
+    "props": {
+      "direction": "column"
+    },
+    "type": "ia.container.flex"
+  }
+}

@@ -1,0 +1,123 @@
+# -*- mode: ruby -*-
+# vi: set ft=ruby :
+
+
+################################################################################
+# Custom configurations
+################################################################################
+
+# Define Vagrantfile locations
+ex_vagrantfile = File.expand_path("./Vagrantfile.local.example", __dir__)
+local_vagrantfile = File.expand_path('./Vagrantfile.local', __dir__)
+project_vagrantfile = File.expand_path('./Vagrantfile.project', __dir__)
+
+# Load project configurations.
+load project_vagrantfile if File.exists?(project_vagrantfile)
+
+# Load local configurations. If they don't exist, copy the example Vagrantfile.
+if !File.exists?(local_vagrantfile)
+  print "Creating local Vagrantfile...\n"
+  FileUtils.cp(ex_vagrantfile, local_vagrantfile)
+end
+
+load local_vagrantfile
+
+
+################################################################################
+# Provisioning Scripts
+################################################################################
+
+# Use the current Git SHA1 as the VM version number.
+$vm_version = `git rev-parse HEAD`
+
+################################################################################
+# VM Configuration
+################################################################################
+
+# All Vagrant configuration is done below. The "2" in Vagrant.configure
+# configures the configuration version (we support older styles for
+# backwards compatibility). Please don't change it unless you know what
+# you're doing.
+Vagrant.configure("2") do |config|
+################################################################################
+# Global Config
+################################################################################
+
+  # Every Vagrant development environment requires a box. You can search for
+  # boxes at https://vagrantcloud.com/search.
+  config.vm.box = "bento/ubuntu-20.04"
+
+  # Share an additional folder to the guest VM. The first argument is
+  # the path on the host to the actual folder. The second argument is
+  # the path on the guest to mount the folder. And the optional third
+  # argument is a set of non-required options.
+  config.vm.synced_folder "../", "/home/vagrant/#{$project_name}/"
+
+  # Enable X11 forwarding.
+  config.ssh.forward_x11 = true
+  config.ssh.forward_agent = true
+
+  # Add SSH keys requested.
+  if $ssh_public_key != ""
+    config.vm.provision "file",
+                        source: "#{$ssh_key_location}/#{$ssh_public_key}",
+                        destination: "~/.ssh/#{$ssh_public_key}"
+  end
+
+  # Copy global file lists.
+  for file in $files
+    if File.exists?(file)
+      file.sub! "#{ENV['HOME']}", "~/"
+      config.vm.provision "file", source: file, destination: file
+    end
+  end
+
+  # Configure custom system-level settings.
+  config.vm.provision "shell", inline: $configure_project_settings
+
+  # Install dependencies.
+  config.vm.provision "shell", inline: "\
+    echo 'Installing global apt packages'; \
+    apt-get update; \
+    apt-get install -y #{$project_apt_packages} #{$local_apt_packages}; \
+    "
+  # "pip" added as dummy to suppress errors when no package to install
+  config.vm.provision "shell", inline: "\
+    echo 'Installing global pip packages'; \
+    yes | pip3 install pip #{$project_pip_packages} #{$local_pip_packages}; \
+    "
+
+  # Configure installed tools.
+  config.vm.provision "shell", inline: $configure_project_tools
+
+  # Store the version of the Vagrant configuration used to provision the VM.
+  config.vm.provision "shell", inline: "echo -n \"#{$vm_version}\" > \
+                                        /home/vagrant/.vm_version"
+
+##############################################################################
+# Specific Config
+##############################################################################
+
+  # SQL Server Node [1]
+  config.vm.define "db-0" do |db|
+    # VirtualBox Config
+    db.vm.provider "virtualbox" do |vb|
+      # Display the VM name in the VirtualBox GUI
+      vb.name = $vm_name
+
+      # Specify number of cores for VM.
+      vb.cpus = $num_cpus
+
+      # Specify amount of memory for VM [MB].
+      vb.memory = $memory_size
+    end
+
+    # Configure machine hostname.
+    db.vm.hostname = "db-0"
+
+    # Configure basic private networking.
+    db.vm.network :private_network, ip: "10.0.0.11"
+
+    db.vm.provision "shell", inline: $install_ignition, privileged: false
+  end
+end

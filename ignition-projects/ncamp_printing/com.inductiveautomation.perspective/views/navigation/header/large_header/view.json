@@ -1,0 +1,48 @@
+{
+  "custom": {},
+  "params": {},
+  "props": {
+    "defaultSize": {
+      "height": 48,
+      "width": 986
+    }
+  },
+  "root": {
+    "children": [
+      {
+        "meta": {
+          "name": "EmbeddedView_0"
+        },
+        "position": {
+          "basis": "51px"
+        },
+        "props": {
+          "path": "navigation/header/header",
+          "style": {
+            "borderBottomColor": "#000000",
+            "borderBottomStyle": "solid",
+            "borderBottomWidth": 1,
+            "borderLeftColor": "#000000",
+            "borderLeftStyle": "none",
+            "borderLeftWidth": 1,
+            "borderRightColor": "#000000",
+            "borderRightStyle": "none",
+            "borderRightWidth": 1,
+            "borderTopColor": "#000000",
+            "borderTopStyle": "none",
+            "borderTopWidth": 1,
+            "outlineStyle": "none"
+          }
+        },
+        "type": "ia.display.view"
+      }
+    ],
+    "meta": {
+      "name": "root"
+    },
+    "props": {
+      "direction": "column"
+    },
+    "type": "ia.container.flex"
+  }
+}

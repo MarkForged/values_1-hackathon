@@ -1,0 +1,8 @@
+###############################################################################
+# Ignition Perspective Projects Gitignore
+###############################################################################
+
+# Auto-generated thumbnails
+*thumbnail.png
+
+com.inductiveautomation.vision/*

@@ -1,0 +1,16 @@
+{
+  "scope": "C",
+  "version": 1,
+  "restricted": false,
+  "overridable": true,
+  "files": [
+    "data.bin"
+  ],
+  "attributes": {
+    "lastModification": {
+      "actor": "soneil",
+      "timestamp": "2021-10-04T14:10:38Z"
+    },
+    "lastModificationSignature": "e7a66e353776c88eaac6f6a1286df260a0f2eb37e70c8e0a5983a995abc8bc13"
+  }
+}

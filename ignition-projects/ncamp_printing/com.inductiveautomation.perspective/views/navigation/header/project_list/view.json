@@ -1,0 +1,86 @@
+{
+  "custom": {},
+  "params": {},
+  "props": {
+    "defaultSize": {
+      "height": 45,
+      "width": 956
+    }
+  },
+  "root": {
+    "children": [
+      {
+        "children": [
+          {
+            "meta": {
+              "name": "HorizontalMenu"
+            },
+            "position": {
+              "height": 45,
+              "width": 445,
+              "x": 0.006,
+              "y": 0.0006
+            },
+            "props": {
+              "itemStyle": {
+                "borderStyle": "none",
+                "fontFamily": "Helvetica",
+                "textAlign": "center"
+              },
+              "style": {
+                "borderStyle": "none",
+                "outlineStyle": "none",
+                "textAlign": "center"
+              }
+            },
+            "type": "ia.navigation.horizontalmenu"
+          }
+        ],
+        "meta": {
+          "name": "CoordinateContainer"
+        },
+        "position": {
+          "size": "large"
+        },
+        "type": "ia.container.coord"
+      },
+      {
+        "events": {
+          "component": {
+            "onActionPerformed": {
+              "config": {
+                "url": "{/root/Dropdown.props.value}"
+              },
+              "scope": "C",
+              "type": "nav"
+            }
+          }
+        },
+        "meta": {
+          "name": "Dropdown"
+        },
+        "props": {
+          "options": [
+            {
+              "label": "IQC",
+              "value": "http://ignition.corp.markforged.com/iqc"
+            },
+            {
+              "label": "FP",
+              "value": "http://ignition.corp.markforged.com/fiberprod"
+            }
+          ],
+          "value": "http://ignition.corp.markforged.com/fiberprod"
+        },
+        "type": "ia.input.dropdown"
+      }
+    ],
+    "meta": {
+      "name": "root"
+    },
+    "props": {
+      "breakpoint": 800
+    },
+    "type": "ia.container.breakpt"
+  }
+}

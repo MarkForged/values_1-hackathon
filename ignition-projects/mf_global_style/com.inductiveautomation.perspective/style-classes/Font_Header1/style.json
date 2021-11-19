@@ -1,0 +1,12 @@
+{
+  "base": {
+    "style": {
+      "color": "#000000",
+      "fontFamily": "Helvetica",
+      "fontSize": "48px",
+      "fontVariant": "normal",
+      "fontStyle": "normal",
+      "fontWeight": "normal"
+    }
+  }
+}

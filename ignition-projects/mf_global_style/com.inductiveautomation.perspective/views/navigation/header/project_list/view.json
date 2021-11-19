@@ -1,0 +1,62 @@
+{
+  "custom": {},
+  "params": {},
+  "props": {
+    "defaultSize": {
+      "height": 30
+    }
+  },
+  "root": {
+    "children": [
+      {
+        "meta": {
+          "name": "HorizontalMenu"
+        },
+        "propConfig": {
+          "props.items": {
+            "binding": {
+              "config": {
+                "path": "session.props.gateway.address"
+              },
+              "transforms": [
+                {
+                  "code": "\tfrom com.inductiveautomation.ignition.gateway import IgnitionGateway\n\t\n\tmanager \u003d IgnitionGateway.get().getProjectManager()\n\t\n\t\n\tdef gen_item(name):\n\t\titem \u003d {\n\t\t\t\"enabled\": True,\n\t\t\t\"icon\": {\"path\": \"\"},\n\t\t\t\"items\": [],\n\t\t\t\"label\": manager.getProject(name).get().getManifest().getTitle(),\n\t\t\t\"style\": {\"classes\": \"\"},\n\t\t\t\"target\": \"{}/data/perspective/client/{}\".format(value, name),\n\t\t}\n\t\treturn item\n\t\t\n\t\n\t# It\u0027s devilishly difficult to tell if a project has a meaningful Perspective component\n\t# So instead we filter out the one known Vision-only project\n\tprojectNames \u003d [gen_item(name) for name in manager.projectNames if manager.getProject(name).get().isRunnable() and name !\u003d \"MF_Production\"]\n\t\n\treturn projectNames",
+                  "type": "script"
+                }
+              ],
+              "type": "property"
+            }
+          }
+        },
+        "props": {
+          "itemStyle": {
+            "borderColor": "#E0E0E0",
+            "borderLeftStyle": "none",
+            "borderRightStyle": "solid",
+            "borderWidth": "2px",
+            "fontFamily": "Helvetica",
+            "textAlign": "center"
+          },
+          "style": {
+            "borderStyle": "none"
+          }
+        },
+        "type": "ia.navigation.horizontalmenu"
+      }
+    ],
+    "meta": {
+      "name": "root"
+    },
+    "position": {
+      "size": "large"
+    },
+    "props": {
+      "style": {
+        "borderBottomColor": "#BBBBBB",
+        "borderBottomStyle": "solid",
+        "borderBottomWidth": "1px"
+      }
+    },
+    "type": "ia.container.flex"
+  }
+}

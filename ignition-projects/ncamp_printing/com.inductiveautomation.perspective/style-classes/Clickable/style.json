@@ -1,0 +1,21 @@
+{
+  "base": {
+    "style": {
+      "cursor": "pointer"
+    }
+  },
+  "variants": [
+    {
+      "pseudo": "hover",
+      "style": {
+        "backgroundColor": "#F0F0F0"
+      }
+    },
+    {
+      "pseudo": "active",
+      "style": {
+        "backgroundColor": "#DDDDDD"
+      }
+    }
+  ]
+}

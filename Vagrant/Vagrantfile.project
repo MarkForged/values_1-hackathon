@@ -1,0 +1,112 @@
+# -*- mode: ruby -*-
+# vi: set ft=ruby :
+
+
+################################################################################
+# Project Settings
+################################################################################
+# Name of project. By default, will be used to configure the VM name and
+# project folder.
+$project_name = "mf-ignition"
+
+
+################################################################################
+# Project Dependencies
+################################################################################
+
+################################################################################
+# Global
+################################################################################
+
+# Custom Ubuntu packages installed with apt-get.
+$project_apt_packages = "\
+mysql-server \
+avahi-daemon \
+libnss-mdns \
+python3 \
+python3-pip \
+"
+
+# Custom Python packages installed with pip.
+$project_pip_packages = "\
+"
+
+################################################################################
+# Global
+################################################################################
+
+# Configure project-specific settings.
+$configure_project_settings = <<EOT
+  OS_DIST=$(lsb_release --short --codename)
+  MYSQL_URL="https://dev.mysql.com/get/mysql-apt-config_0.8.16-1_all.deb"
+  MYSQL_REPOSITORY=~/mysql_repository.deb
+
+  # Add Oracle MySQL repository - Ubuntu's MySQL repo is _not great_
+  # Configure for headless install
+  echo "mysql-apt-config mysql-apt-config/preview-component string" | debconf-set-selections
+  echo "mysql-apt-config mysql-apt-config/repo-url string http://repo.mysql.com/apt" | debconf-set-selections
+  echo "mysql-apt-config mysql-apt-config/repo-distro select ubuntu" | debconf-set-selections
+  echo "mysql-apt-config mysql-apt-config/repo-codename select ${OS_DIST}" | debconf-set-selections
+  echo "mysql-apt-config mysql-apt-config/unsupported-platform select abort" | debconf-set-selections
+  echo "mysql-apt-config mysql-apt-config/dmr-warning note" | debconf-set-selections
+  echo "mysql-apt-config mysql-apt-config/tools-component string mysql-tools" | debconf-set-selections
+  echo "mysql-apt-config mysql-apt-config/select-product select Ok" | debconf-set-selections
+  echo "mysql-apt-config mysql-apt-config/select-server select mysql-8.0" | debconf-set-selections
+  echo "mysql-apt-config mysql-apt-config/select-tools select Enabled" | debconf-set-selections
+  echo "mysql-apt-config mysql-apt-config/select-preview select Disabled" | debconf-set-selections
+  # MySQL passwordless root login, strong encryption
+  echo "mysql-community-server mysql-server/default-auth-override select Use Strong Password Encryption (RECOMMENDED)" | debconf-set-selections
+  echo "mysql-community-server mysql-community-server/root-pass password" | debconf-set-selections
+  echo "mysql-community-server mysql-community-server/re-root-pass password" | debconf-set-selections
+
+  # Download, install, dispose
+  wget -q "${MYSQL_URL}" -O "${MYSQL_REPOSITORY}"
+  export DEBIAN_FRONTEND="noninteractive"
+  dpkg -i "${MYSQL_REPOSITORY}"
+  unset DEBIAN_FRONTEND
+  rm "${MYSQL_REPOSITORY}"
+EOT
+
+# Configure the machine and installed tools:
+$configure_project_tools = <<EOT
+  # Setup MySQL server
+  echo "Configuring MySQL server"
+  mysql -e "CREATE DATABASE api_hackathon;"
+  #{$apply_migrations}
+EOT
+
+# This is too basic, but it doesn't require any schema modification
+$apply_migrations = <<EOT
+  set -e
+  MIGRATE_DIR="/home/vagrant/mf-ignition/Config/migrations/"
+
+  mapfile -t migrations < <(find "${MIGRATE_DIR}" -regex '.*/V[0-9]+__.+\.sql' | sort -V)
+  for file in "${migrations[@]}"; do
+    echo "Applying `basename ${file}`"
+    mysql mf_ignition < "${file}"
+  done
+EOT
+
+# Kudos to Kevin.Collins from the Inductive Forums for some direction
+$install_ignition = <<EOT
+  set -e
+  IGN_LOCATION='https://files.inductiveautomation.com/release/ia/8.1.1/20201208-0843/ignition-8.1.1-linux-x64-installer.run'
+  IGN_INSTALLER="${HOME}/Ignition-linux-x64-installer.run"
+  IGN_VERSION=$(echo ${IGN_LOCATION} | sed -E "s~.*([0-9]+\.[0-9]+\.[0-9]+).*~\1~")
+
+  echo "Downloading Ignition ${IGN_VERSION}"
+  wget -q --referer https://inductiveautomation.com/* "${IGN_LOCATION}" -O "${IGN_INSTALLER}"
+  # Install Ignition, following Inductive Automation's procedure
+  echo "Installing Ignition ${IGN_VERSION}"
+  sudo useradd -r ignition
+  chmod +x "${IGN_INSTALLER}"
+  "${IGN_INSTALLER}" --quiet -- "unattended=none" "user=ignition" serviceName=ignition
+  # Cleanup
+  rm "${IGN_INSTALLER}"
+
+  # Start Ignition service - this will likely "error" as the installer appears
+  # to properly start the service & configure systemd DESPITE the docs stating
+  # the opposite
+  echo "Starting Ignition ${IGN_VERSION}"
+  sudo /usr/local/bin/ignition/ignition.sh installstart || true
+EOT

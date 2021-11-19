@@ -1,0 +1,43 @@
+{
+  "pages": {
+    "/": {
+      "viewPath": "navigation/Home/homepage",
+      "title": ""
+    }
+  },
+  "sharedDocks": {
+    "cornerPriority": "top-bottom",
+    "left": [
+      {
+        "viewPath": "navigation/menu/side_menu_root",
+        "id": "",
+        "viewParams": {},
+        "size": 200,
+        "resizable": false,
+        "iconUrl": "",
+        "modal": false,
+        "show": "auto",
+        "anchor": "fixed",
+        "content": "push",
+        "autoBreakpoint": 480,
+        "handle": "autoHide"
+      }
+    ],
+    "top": [
+      {
+        "viewPath": "navigation/header/project_header_root",
+        "id": "",
+        "viewParams": {},
+        "size": 84,
+        "resizable": false,
+        "iconUrl": "",
+        "modal": false,
+        "show": "visible",
+        "anchor": "fixed",
+        "content": "push",
+        "autoBreakpoint": 480,
+        "handle": "hide"
+      }
+    ]
+  }
+}
